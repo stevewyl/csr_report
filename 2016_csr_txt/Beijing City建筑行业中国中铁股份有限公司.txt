@@ -1,0 +1,888 @@
+﻿Molcn洋收挪m盡啡
+— V# SOCIAL RESisIBIUTY REPORT
+彦 3$知馨_雙■篇 gssmm 聖SHip issl_ HI-
+CHINA RAILWAY GROUP rISITWD
+本公司董事会及全体董事保证本报告内容不存在任何虚假记载、误导性陈述或重 大遗漏，并对其内容的真实性、准确性和完整性承担个别及连带责任。
+The Board of Directors and all directors of the Company guarantee that there is no false record, misleading statement or major omission in this report and they will bear individual and joint liabilities for the authenticity, accuracy and integrity of the contents.
+中国中铁
+标识由公司汉语简称“中国中铁”与英文简称“CREC”构成，采用象征科技和高远的蓝色为标准 色。经纬交织的地球背景，展现了公司的全球视野和战略眼光。端正、刚健的“工”字既型如坚 实的钢轨，承载着辉煌厚重的历史，又势如擎天的建筑，昭示着蒸蒸曰上的未来。
+The logo is constituted of the Chinese abbreviation of company name "CREC" and the English abbreviation "CREC", adopting blue color that symbolizes technology and ambition as the standard color. The background of the globe with meridians and latitudes interwoven indicates the company's global and strategic vision. The upright and vigorous word "工"is not only like a solid rail, carrying the glorious and heavy history, but also like giant building, illuminating a flourishing future.
+关于本报告
+About This Report
+欢迎阅读中国中铁股份有限公司2016年社会责任报告
+为便于您的阅读，中国中铁股份有限公司在本报告中以 “中国中铁”、“公司”、“我们”等方式进行表述。
+本报告是公司第九份年度社会责任报告，时间跨度以 2016年1月1日至12月31日为主，重点表述了2016年度中 国中铁在依法治企、优质服务、创造效益、员工发展、 安全监管、科技进步、环境保护、公益事业、合作共 赢、海外责任等方面的工作，适当关注了 2016年以前公 司麗行、土会责任的情况。
+报告编写参照联合国全球契约（Global Compact)颁布的 “十大原则”，全球报告倡议组织（GRI )、社会责任国 际（SAI )和中国国家标准GB/T36000-2015《社会责任指 南》、GB/T36001-2015《社会责任报告编写指南》、GB/ T36002-2015《社会责任绩效分类指引》、《中国企业社 会责任报告编写指南（CASS-CSR3.0 )之建筑业》、《中 国对外承包工程行业社会责任指引》等相关标准，以及 国务院国资委、上海证券交易所、香港联合交易所的有 关规定。
+报告中使用的相关数据和案例，均来自中国中铁及其子 分公司。
+本报告以中英文两种文字出版，若两种文字间有差异， 按中文版解读。
+本报告力求完整、客观和准确，并积极回应利益相关方 的主要关切。本着精益求精的原则，公司下一年度及以 后的社会责任报告的编写和发布工作还将持续改进、曰 臻完善，也欢迎您的支持。
+本报告的电子版本同时在公司网站发布 您可以樹据需要进行下载。
+Welcome to read Social Responsibility Report in 2015 of China Railway Group Limited.
+In order to facilitate your reading, China Railway Group Limited in this report will be expressed by “CREC” the"Company〃and"we/us” etc.
+This report is the company's ninth annual social responsibility report with the time span of 1st January to 31st December of 2016, mainly focusing on the work about managing enterprises according to law, high-quality service, benefit creation, taff development, safety supervision, science & technology progress, environmental protection,public welfare undertaking,w in-win cooperation and overseas responsibility, etc. during the year of 2016, with due attention to the status of company fulfilling their social responsibility before 2016.
+We prepared the report by referring to the "ten principles" promulgated by the United Nations Global Compact (Global Compact), the relevant standards of the Global Reporting Initiative (GRI), Social Accountability International (SAI), Chinese National Standards GB/T36000-2015 Social Responsibility Guidelines, GB/T36001-2015 Social Responsibility Reporting Guidelines, GB/T36002-2015 Social Responsibility Performance Classification Guidelines, China CSR Reporting Guidelines (CASS-CSR3.0), Guide on Social Responsibility for Chinese International Contractors and relevant requirements of the SASAC, Shanghai Stock Exchange and the Stock Exchange of Hong Kong.
+All relevant data and cases used in the report are from the CREC and its subsidiary (branch) companies. This report makes a more comprehensive statistics on the history of the company's infrastructure construction, some historical data are improved. If there are differences with previous reports, this report shall prevail.
+This report is published in both Chinese and English. In case of any discrepancy between the two versions, the Chinese version shall prevail.
+This report strives to be complete, objective and accurate, and actively responses to the main concerns of the interested parties. In line with the principles of pursuit for excellence, the company will continuously improve and strive for perfection in the work of
+Social Responsibility Report's preparation and publishing in the next year and the following years, and also welcome your support.
+The electronic version of this report will be published in the company website (www.crec.cn) at the same time; you can download it as needed.
+Catalogue 目录
+Speech of Leader	02	领导致辞
+Company View of Values	04	公司价值观
+Planning of Social Responsibility	05	社会责任规划
+Interested Parties	06	利益相关方
+Company Profile	07	公司概况
+Managing Enterprises According to Law	08	依法治企
+High-Quality Service	12	优质服务
+Benefit Creation	16	创造效益
+Staff Development	20	员工发展
+Safety Supervision	25	安全监管
+Science & Technology Progress	29	科技进步
+Environmental Protection	34	环境保护
+Public Welfare Undertaking	41	公益事业
+Win-Win Cooperation	46	合作共赢
+Overseas Responsibility	50	海外责任
+Open CREC	55	开放的中国中铁
+Social Assessment	60	社会评价
+Top Ten Outstanding Social Responsibility Practices 61	年度十佳优秀社会责任实践
+Outlook 62 展望
+
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+领导致辞
+2016年，是中国中铁各项事业在挑战中奋进，并取 得突出业绩的一年。全公司按照年初确定的奋斗目 标，团结一心、攻坚克难，砥砺前行，充分发挥行业 表率和示范作用，切实践行奉献精品、改善民生的神 圣使命，积极承担、充分履行社会责任，在拉动经济 增长、推动科技进步、促进就业、环境保护等方面做 出了重要贡献，得到了社会各界的高度评价和广泛认 可。
+一年来，全公司坚持战略引领，制定实施企业 “十三五”发展规划，提出“实施提质增效战略、做 强做优做大企业”的战略目标；主要经济指标再创历 史新高，实现了“十三五”良好开局；积极推动结构 调整和企业内部重组，大力推进区域经营管理模式， 全面加强战略合作对接，积极推动产融结合，打造金 融协同平台，探索创新商业模式，推进实施了一批重 大投资项目；深入推进工程项目精细化管理和项目管 理实验室活动，全面强化班组长安全质量责任制和安 全教肓培训，广泛开展“詹天佑杯”、“蒙华杯”、
+“中国中铁杯”等劳动竞赛，优质高效地建成了一大 批重点工程；注重保障和改善民生，深入开展“三工 建设”三不让”承诺和“送温暖”活动，大力推 动节能减排，主动参与抢险救灾和社区服务，全面履 行了企业的社会责任。
+2016年，中国中铁排名世界企业500强第57位，世界品 牌500强第296位。公司获得国家科技进步奖3项、国家 技术发明奖1项、建筑工程鲁班奖13项、国家优质工程 奖19项。
+2017年，中国中铁将一如既往地忠实履行企业使命， 不断探索造福社会的新形式，努力为推动科学发展、 促进社会和谐做出新的更大贡献。
+董事长：李长进 2017年3月
+
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+Speech of Leader
+In 2016, CREC positively coped with the challenge in all aspects, having gained outstanding achievements. In accordance with the goals set in the beginning of the year, CREC united as one, overcame many difficulties to forge ahead, and fully played the role of industry example and model, effectively practiced the sacred mission of high-quality project construction and improvement of people's livelihood, positively committed and fully fulfilled its social responsibilities. The company made important contributions towards stimulating economic growth, accelerating scientific and technological progress, promoting employment and environmental protection and so on, having been highly praised and widely recognized by all sectors of society.
+Over the past year, CREC adhered to the strategy guidance, made and implemented its "13th Five-Year" development plan, put forward the strategic objectives of "implementing quality and efficiency improvement strategy to make the enterprise more excellent, more stronger and bigger”; the main economic indicators reached a record high, achieving a good start for the "13th Five-Year Plan"; it actively promoted the structural adjustment and internal reorganization, vigorously boosted the regional operation and management mode, comprehensively strengthened the strategic cooperation docking, and actively promoted the integration of industry and finance, created a financial cooperation platform to explore innovative business model, and boosted the implementation of a number of major investment projects; it deeply pushed forward engineering project delicacy management and project management laboratory
+activity, comprehensively enhanced the team leader safety and quality responsibility system and safety education and training, extensively carried out labor emulations such as "Zhan Tianyou Cup", "Menghua Cup', "CREC Cup" and so on, and efficiently constructed a large number of major projects with high quality; it paid attention to ensuring and improving people's livelihood, deeply carried out “Three Projects Construction” “Three Prevention” commitments and "Warmth-Delivery” activity, strengthened efforts of energy conservation and emission reduction and took active part in emergency rescue and disaster relief as well as community work. It successfully performed its corporate social responsibilities.
+In 2016, CREC ranked 57th in top 500 companies in the world, and ranked 296th in top 500 world's brands. The company won 3 prizes for National Progress in Science and Technology, 1 prize for National Technical Invention Award, 13 Luban Prizes for China Architecture Project, and 19 prizes for National High-Quality Project Award.
+In 2017, CREC will continue to faithfully fulfill its corporate mission and constantly explore new forms of society benefiting and make efforts to make new and greater contributions to promoting scientific development and social harmony.
+Chairman of the Board: Li Changjin March, 2017
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+企业精神：
+勇于跨越追求卓越
+核心价值观：
+诚信敬业共建共享
+Core Value:
+Honesty and Professionalism, Co-building and Sharing
+Enterprise Tenet:
+Innovation and Efficiency for High Quality Development
+企业宗旨：
+创新创效优质发展
+Corporate Mission:
+Dedication to Excellent Products for People's Better Life
+企业使命：	Enterprise Vision:
+奉献精品改善民生	Leading in China and First-class in
+the World
+企业愿景：
+国内领先世界一流
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+05
+社会责任规划	Planning of Social Responsibility
+作为建筑行业的领军企业，中国中铁始终以成为企业 社会责任的实践者、推动者和引领者为己任，自2008 年起，开始着手建立科学、规范、系统、有效的企业 社会责任管理体系，从依法治企、优质服务、创造效 益、员工发展、安全监管、科技进步、环境保护、公 益事业、合作共赢、海外责任等十个方面进行社会责 任规划，并从公司总部到各子公司全面开展了一系列 社会责任管理实践活动，以实现全面覆盖、充分履 行、日臻完善、行业领先的社会责任目标，为社会持 续提供不可替代的杰出贡献。
+As a leader in the construction industry, CREC has always been to become a practitioner, propellant and leader of Corporate Social Responsibility as its mission. Since 2008, it began to establish a scientific, standardized, systematic and effective management system of corporate social responsibility, and planned social responsibility from ten aspects of managing enterprises according to law, high-quality service, benefit creation, staff development, safety supervision, science & technology progress, environmental protection, public welfare undertaking, win-win cooperation and overseas responsibility. And the company launched a series of management practices of social responsibility from the company headquarter to the subsidiaries in order to achieve the goal of ^ll-coverage, full-^lfillment, pursuit for perfection and industry-leading social responsibility, making the irreplaceable and outstanding contributions to a sustainable society.
+海外责任
+Overseas
+Responsibility
+优质服务
+High-Quality
+Service
+Environmental
+Protection
+安全监管
+Safety Supervision
+Planning of Social Responsibility
+06
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+利益相关方
+Interested Parties
+多年来，中国中铁始终与利益相关方保持和谐互信、 互惠互利的合作关系，坚持从利益相关方视角，积极 回应利益相关方关注的重要问题，建立顺畅、规范、 富有特色的利益相关方沟通机制，努力实现与各利益 相关方共同发展、和谐共赢。经全面分析所在行业产 业链条和宏观环境，中国中铁的利益相关方主要由十 类群体构成，即债权人、客户、政府、投资者、合作 伙伴、同业者、非政府组织、员工、公众、供应商。
+Over several years, CREC has always maintained the cooperation relationship of harmony, mutual trust, mutually benefit with all interested parties, adhered to the interests of interested parties in the perspective of interested parties, responded actively to important issues that interested parties pay attention to, established smooth, standardized and distinctive communication mechanism of interested parties, and made efforts to achieve common development, harmony and win-win with all interested parties. After a comprehensive analysis of the production chain and macroenvironment in the industry, CREC interested parties are mainly constituted in ten groups, i.e. creditor, clients, government, investor, partners, brother chip, NGO (non-governmental organization), staff, public and suppliers.
+与利益相关方共同 发展和谐共臝
+Common Development, Harmony and Win-wi with interested parties
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+07
+公司概况
+Company Profile
+中国中铁是集勘察设计、施工安装、工业制造、房地 产开发及其他业务于一体的特大型企业集团，全球最 大的建筑工程承包商之一，在世界企业500强中排名第 57位，在世界品牌500强中排名第296位。公司于2007 年12月3曰、12月7曰分别在上海、香港两地上市。公 司总资产7545.09亿元，净资产1491.59亿元。
+CREC is an extremely large enterprise group integrating survey and design, construction and installation, industrial manufacturing, real estate development and other business. It is one of the largest construction contractors in the world, ranking 57th in the top 500 companies in the world and ranked 296th in top 500 world's brands. CREC was listed respectively on December 3rd, 2007 and December 7th, 2007 in Shanghai and Hong Kong, with the total assets of RMB 754.51 billion Yuan and net assets of RMB 149.16 billion Yuan.
+中国中铁建设者先后修建了近10万公里的铁路，占中 国铁路总里程的三分之二以上，占中国电气化铁路的 90%;参与建设的公路超过4.3万公里，其中高速公 路超过1.6万公里，占中国高速公路总里程的八分之 一；参与建设了2000多公里的城市轨道工程，占中国 城市轨道工程的五分之三；修建了武汉长江大桥、南 京长江大桥、东海大桥、杭州湾跨海特大桥等近万座 大桥，总长达1.9万多公里；建成秦岭隧道、太行山瞇 道、厦门翔安海底瞇道、武汉长江瞇道等长大瞇道共 计1.7万多公里。公司建设者先后14次远征南极，承担 了中山站、长城站、昆仑站建设和维护任务。公司还 先后参加了国内近6000项机场、码头、水电、高层建 筑、市政等大型工程的设计与施工，经营范围覆盖到 基础设施建设的各个领域，工程项目遍布中国除台湾 省以外的各省市自治区以及全球80多个国家和地区， 科技水平在诸多领域达到世界先进水平，并且屡获国 家科技进步奖。
+The builders of CREC have successively constructed railways of nearly 100,000 kilometers, accounting for more than two-thirds of the total length of China's railway and 90% of China's electrified railway; they have participated in the road construction which covered over 43,000 kilometers, of which expressway is more than 16,000 kilometers, about one-eighth of total mileage of China's expressway; they have participated in the construction of urban rail transit project of more than 2,000 kilometers, accounting for three-fifth of China's urban rail project; they have constructed nearly ten thousand bridges with total length of more than 19,000 kilometers including Wuhan Yangtze River Bridge, Nanjing Yangtze River Bridge, the East Sea Bridge, Hangzhou Bay Cross-sea Bridge; they have built long tunnels of Qinling Tunnel, Taihangshan Tunnel, Xiamen Xiang'an Undersea Tunnel, Wuhan Yangtze River Tunnel and so on, with the total length of 17,000 kilometers. The builders have participated in the Antarctic expedition for 14 times, undertaking the construction and maintenance tasks of Zhongshan Station, Great Wall Station and Kunlun station. The company also has participated in design and construction of more than 6000 large-scale projects including national airports, docks, hydropower, high-rise buildings, municipal and other large projects, with the business scope covering all infrastructure construction fields, and the projects spreading all over China's provinces and autonomous regions except for Taiwan and more than 80 countries and regions in the world. The technological level in many areas has reached the world's advanced level, and has won the prizes for National Progress in Science and Technology for many times.
+11II11
+廳
+
+钃_圓_11画■■■■匾■■醞
+“謹騙 u i. ■ ^	“
+
+1H1H1
+ii
+mi
+im
+
+中国中铁股份有限公司	SOCIAL
+2〇16 社会责任报告	RESPONSIBILITY REPORT IN 2016
+
+公司治理
+Corporate Governance
+
+内控监督
+Internal Control Supervision
+
+诚信经营
+Honest Managemen
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+09
+公司治理	Corporate Governance
+2016年，公司董事会由7名董事组成，其中执行董 事3名、独立非执行董事4名，独立董事占董事会 成员半数以上。董事会下设战略、薪酬与考核、 审计与风险管理、提名、安全健康环保5个专门 委员会。战略委员会由5名董事组成，其中执行董 事3名，独立非执行董事2名；审计与风险管理委 员会由3名董事组成且全部为独立非执行董事，均 具有丰富的上市公司及大型企业财务管理经验； 薪酬与考核委员会由3名董事组成且全部为独立非 执行董事，全部具有丰富的上市公司及大型企业 业绩考核和薪酬管理经验；提名委员会由5名董事 组成，其中执行董事2名，独立非执行董事3名； 安全健康环保委员会由5名董事组成，其中执行董 事2名，独立非执行董事3名。公司监事会由5名成 员组成，其中股东代表监事2人、职工代表监事3 人。高管层成员8名，其中包括执行董事兼任总裁 1名，副总裁、总工程师1名，副总裁4名(其中，1 名副总裁于8月份退休)，财务总监1名和董事会秘 书、总法律顾问1名。
+2016年是“十三五”开局之年，是中国中铁建设 规范董事会试点、建立现代企业制度十周年，公 司董事会积极适应监管新常态，积极履行监管新 要求，围绕“定战略、决大事、控风险”职能， 本着规范性与有效性并重的原则，推进“实施提 质增效战略、做强做优做大企业”的战略目标， 切实履行《公司法》和《公司章程》所赋予的职 责，忠实执行出资人意志、维护股东权益，诚实 守信，勤勉尽职，不断健全和完善公司治理机 制，提高企业规范运作水平，面对经济发展新常 态、市场竞争新形势、国企改革发展新任务、从 严治党新要求，抓机遇稳增长、抓改革促转型、 抓管理提效益、控风险保稳定，为促进公司全面 深化企业改革和实现“十三五”良好开局发挥了 重要引领和保障作用。
+2016年，公司共组织召开临时股东大会会议1次 和年度股东大会会议1次，董事会会议10次，董事 会5个专门委员会会议17次，共计审议议案和报 告266项，作出决议205项，所有会议程序依法合 规，决策及时准确，充分体现出资人意志，未出 现重大失误。
+In 2016, the Board of Directors is composed of 7 members including 3 executive directors, 4 independent non-executive directors, and independent directors account for more than half of the Board members. There are 5 special committees of strategy, remuneration and performance assessment, audit and risk management, nomination as well as safety, health and environment under the Board of Directors, among which strategy committee is composed of 5 directors, 3 of them are executive directors and 2 of them are non-independent directors; audit and risk management committee is composed of 3 directors, all of them are independent non-executive directors who have rich experiences in listed company and large corporate financial management; remuneration and performance assessment committee is composed of 3 directors and all of them are independent non-executive directors, having rich experiences in listed company and large corporate performance assessment and remuneration management; nomination committee is composed of 5 directors, 2 of them are executive directors and 3 of them are independent non-executive directors; safety, health and environment committee is composed of 5 directors, 2 of them are executive directors, and 3 of them are independent non-executive directors. The Board of Supervisors is composed of 5 members including 2 shareholder representative supervisors and 3 workers' representative supervisors. The upper management is composed of 8 members including 1 executive director and president, 1 vice president and chief engineer, 4 vice presidents(of whom, one vice president will retire in August), 1 CFO, 1 board secretary and 1 general counsel.
+2016 is the year to start the "13th Five-Year Plan', and is the 10th anniversary for CREC standardization pilot of the Board of Directors and establishment of modern enterprise system. CREC Board of Directors actively adapted to new normal supervision situation and fulfilled new supervision requirement. In addition, focusing on the Unction of "defining strategy, deciding major event, and controlling risk', and in line with the principle of normalization and effectiveness, it promoted the strategic objectives of "implementing quality and efficiency improvement strategy to make the enterprise more excellent, more stronger and bigger". It earnestly performed the duties given by the Corporate Law and the Articles of Association, faithfully executed investor's will, maintained shareholder's rights and interests. Being honest and trustworthy, diligent and conscientious, CREC constantly improved and perfected the corporate governance mechanism to improve the standard operation of corporate. In the fece of new normal state of economic development, new situation of market competition, new tasks for reform and development of state-owned enterprises, and new requirements for strengthening Party selfdiscipline, it grasped the opportunity to grow steadily, boosting reform to promote transformation, enhancing management to improve efficiency, and controlling risk for stability, so as to play an important role in leading and ensuring overall enterprise reformation and a good start for realizing the "13th Five-Year Plan".
+In 2016, the company organized extraordinary shareholders meeting once and annual general meeting of shareholders once, the board meeting for 10 times, and the Board five special committee meeting for 17 times, in which, a total of 266 proposals and reports were examined, and 205 resolutions were decided. All meeting procedures were in accordance with laws and in compliance, and the decisions were made timely and accurately, which fully embodied the will of the investors without major mistakes.
+10
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+雀儿山隧道贯通
+内控监督	Internal Control Supervision
+中国中铁高度重视内控体系建设，按照《企业内部控 制基本规范》要求，在制定下发《工程项目内部控制 指导手册》等相关文件的基础上，2016年，根据企业 全面深化改革的需要，加强对内控审计和评价中发现 的管理缺陷的整改，修订完善了总部内部控制体系文 件。召开管理制度评审会议5次，完成了 63项规章制 度的评审工作。
+公司结合企业实际，在组织开展风险管理初始信息收 集和所属各单位风险评估结果的基础上，编制风险评 估调查问卷，从5大类76个风险点列举出公司层面面 临的风险，从风险发生的可能性和影响程度两个维度 制定风险评估准则，开展了风险问卷调查，评估确定 公司层面重大和重要风险，并编制了《2016年度全面 风险管理报告》。
+近年来，公司不断加强反腐败制度建设和员工培训， 设立独立的审计部门，加强对各业务的监控，积极营 造“不想腐、不能腐、不敢腐”的廉洁文化氛围。
+CREC attached great importance to construction of the internal control system. According to Basic Norms of Corporate Internal Control, by issuing relevant documents including Instruction Manual for Internal Control of Engineering Projects, in 2016, CREC strengthened efforts on management defect rectification found in internal control audit and appraisal under the requirements of overall in-depth corporate reform. It took relevant rectification measures, revised and improved internal control system documents of the headquarter. In the whole year, management system appraisal meeting was held for 5 times, and 63 rules and regulations have been appraised.
+In combination with its reality and based on the organization of initial information collection for risk management and risk assessment results of all subordinate units, CREC compiled the risk assessment questionnaire, listed five categories and 76 risk points that it was facing, formulated risk assessment standards from the probability and influence degree of risk, carried out risk questionnaire survey, assessed and determined the great and major risks that it was facing and compiled the Overall Risk Management Report 2016.
+In recent years, the company continued to strengthen anti-corruption system construction and staff training, the establishment of an independent audit department, to strengthen the monitoring of each business, and actively create a "do not want to rot, not rot, not rot clean culture.
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+诚信经营
+2016年，全公司在市场经营开发工作中，严格贯彻执 行法律法规规定，依法合规地参与了数百次工程投标 与PPP项目采购，无不良经营行为。在施工生产环节, 加强组织领导，统筹资源安排，优化施工组织方式和 劳动用工方式，全面兑现了各项合同承诺。全公司共 有21项工程获国家AAA级安全文明标准化诚信好工 地。
+2016年，中铁一局、中铁四局、中铁yv局、中铁九局、 中铁大桥局、中铁建工、中铁航空港、中铁山桥等被 评为全国守合同重信用企业，中铁三局、中铁十局、 中铁上海局、中铁大桥院等被评为省级守合同重信用 企业，中铁三局、中铁七局、中铁十局、中铁大桥局、 中铁建工、中铁航空港等被评为第四届全国交通企业 法治先进单位，中铁二局、中铁六局、中铁大桥局被 评为2016年度工程建设诚信典型企业。
+资料1 :在2016年铁路施工企业信用评价中，上半年 有中铁港航局、中铁航空港、中铁四局、中铁一局、 中铁上海局等五家单位被评为A级，分别位列第一、 第三、第五、第六、第九名。下半年有中铁三局、中 铁四局、中铁武汉电化局、中铁二局、中铁广州局、 中铁航空港等六家单位被评为A级，分别位列第二、 第四、第六名、第七名、第九名、第十名。
+资料2 : 2016年，全公司如期保证了沪昆高铁、郑徐 高铁、港珠澳大桥、京新高速公路、川藏公路雀儿山 隧道、深圳地铁11号线、亚吉铁路等一批重点工程相 继建成。
+全国质量信得过单位
+Honest Management
+In 2016, CREC strictly implemented related laws and regulations in market operation development. In accordance with the laws, it participated in hundreds of biddings and PPP project procurement, without one case of unhealthy operating behavior. In construction and production procedures, CREC intensified organizational management made overall resources arrangement, optimized the construction organizing method and labor employment method, and completely fulfilled the commitment to each contract. A total of 21 projects were awarded as the construction site of national AAA-level safety and civilization as well as standardization and good integrity.
+In 2016, CREC No.1, CREC No.4 and CREC No.8, CREC No.9, CRBB (China Railway Bridge Bureau), CRCEG (China Railway Construction Engineering Group), CRAC (China Railway Airport Construction Group Co., Ltd.) and CRSBG (China Railway Shanhaiguan Bridge Group Co., Ltd.) were awarded national contracted honor enterprises, CREC No.3, CREC No.10, CREC Shanghai Bureau and BRDI (China Railway Major Bridge Reconnaissance & Design Institute Co., Ltd.) were awarded provincial contracted honor enterprises, CREC No.3, CREC No.7, CREC No.10, CRBB (China Railway Bridge Bureau), CRCEG (China Railway Construction Engineering Group) and CRAC (China Railway Airport Construction Group Co., Ltd.) were awarded advanced legal units in national transportation corporates, CREC No.2, CREC No.6 and CRBB (China Railway Bridge Bureau) were awarded 2016 typical creditable construction corporate.
+Information 1: In 2016 railway construction enterprises credit rating, in the first half year, five units including CRPCEG (China Railway Port and Channel Engineering Group Co., Ltd.), CRAC (China Railway Airport Construction Group Co., Ltd.), CREC No.4, CREC No.1, and CREC Shanghai Bureau were rated as A, ranking first, third, fifth, sixth, and ninth, respectively. In the second half year, six units including CREC No.3, CREC No.4, Wuhai Railway Electrification Bureau Group Co., Ltd., CREC No.2, CTEC Guangzhou Bureau and CRAC (China Railway Airport Construction Group Co., Ltd.) were rated as A, ranking second, fourth, sixth, seventh, ninth and tenth, respectively.
+Information 2: In 2016, CREC guaranteed a batch of key projects were constructed and put into use, including Shanghai-Kunming High-speed Rail, Zhengzhou-Xuzhou High-speed Rail, Hong Kong-Zhuhai-Macao Bridge, Beijing-Urumqi Expressway, Que'ershan Tunnel of Sichuan-Tibet Highway, Shenzhen Metro Line 11 and Addis Ababa-Djibouti Railway, etc.
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+	改善物理环境 Improvement of Physical Environment
+	提高服务质量 Improvement of Service Quality
+	建设精品工程 Construction of High-Quality Project
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+13
+改善物理环境
+中国中铁具有在复杂地质及水文条件、以及特殊环境 下进行各种结构形式诸如铁路、公路、桥梁、市政等 工程建设的雄厚技术力量和机械装备。从塞外到南 国，从东海之滨到雪域高原，中国中铁人发扬“勇于 跨越，追求卓越”精神，出色地完成了各个时期国家 和人民交付的神圣使命，在全球基础设施建设领域留 下了一串串闪光的足迹，在为人类理想而改善地球物 理环境的伟大事业中做出了不凡业绩。
+2016年全公司共建设完成铁路正线铺轨（新线、复 线）7161公里，电气化铁路接触网8250公里，公路 2244公里（其中高速公路1121公里）。新建成桥梁 1734公里，P遂道1368公里。
+资料：中国中铁始终致力于推进可持续有复原力的基 础设施建设，特别是在综合枢纽、复合桥梁、集约空 间、综合管廊等四个领域，不断提高公共基础设施利 用效率，减少重复建设，节省土地和能源，促进环境 保护，推动社会可持续发展；并重点通过研发、使用 和推广有助于提升基础设施复原力的新技术、新工 艺、新材料，努力为社会贡献更多有复原力的基础设 施。2016年入围“实现可持续发展目标中国先锋企 业”。
+港珠澳大桥
+马鞍山长江公路大桥
+Improvement of Physical Environment
+CREC has powerful technical forces and mechanical equipment that can be used in complex geological and hydrological conditions as well as special environment for construction of railways, roads, bridges and municipal buildings with various structures. From beyond the Great Wall to the south, from the East Sea to the snow-covered plateau, CREC people, by developing the spirit of "the courage to leap and the pursuit for excellence1, have perfectly achieved the sacred mission that the state and people delivers during various periods, and left a string of flash footprints in the field of global infrastructure construction, making impressive performance in the great cause of improving the geophysical environment of the Earth for mankind's ideal.
+In 2016, the track laying (new line, double line) that the whole company has completed covered 7161 kilometers, the electrified railway contacting net was 8250 kilometers, the roads covered 2244 kilometers (including the expressway of 1121 kilometers). The newly-constructed bridges covered 1734 kilometers and the tunnel extended 1368 kilometers.
+Information: CREC has always been committed to promoting the infrastructure construction with sustainable resilience, especially in four areas including integrated transport hub, composite bridge, intensive space, and utility tunnel, and continuously improved the utilization efficiency of public infrastructure, reduced repeated construction, saved land and energy, promoted environmental protection, and boosted social sustainable development; in addition, it focused on research and development, use and promotion of new technologies, new processes and new materials that help to improve the resilience of infrastructure, and strove to contribute more resilient infrastructure to society. In 2016, it was in the shortlist of "China Pioneer Enterprise in Achieving Sustainable Development Goals".
+京新高速公路
+无锡地铁1号线
+14
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+提高服务质量
+Improvement of Service Quality
+2016年，中国中铁始终坚持“精益求精，持续改进” 总体思路，坚持以人为本的理念，以对国家、对人 民、对企业高度负责的态度，不断提高服务质量。同 时，我们全面保护客户商业敏感信息和个人私隐。
+工程质量管理方面，公司认真贯彻实施ISO9000体系标 准和《工程质量监督管理办法》，大力开展QC活动， 编制可行的质量计划，采取设置专业质量工程师和编 制专项创优计划等措施，确保质量创优目标的实现。
+工业装备服务方面，公司以重大工程或产品为依托， 不断加强售前、售中和售后服务，深入一线和现场， 了解现场需求，收集产品反馈意见，不断提高产品和 服务质量，提升管理水平。
+在金融服务方面，公司充分利用中央企业金融资源及 优质资产丰富的优势，联合银行、保险、信托证券等 大型金融机构创新开发金融产品，将与主业相关的优 质基础设施类投资转化为各类金融产品向机构及个人 投资者推介。同时配合主业发展的需要，积极开展产 融结合工作，为企业和金融机构的深化合作打下坚实 基础。
+资料1: 2016年，中铁电气化局在重大节日、重要活动 中，认真做好有关铁路的运管服务保障工作。特别是 在杭州G20峰会期间，全力确保了杭黄、杭长及杭甬等 多条高速铁路的运输畅通。
+资料2： 2016年，中铁装备以云计算平台和大数据技 术为支撑，构建TBM优化决策理论与智能控制专家系 统，积极构建高效统一的数字化远程施工技术监控平 台和协同设计平台，实现研发数据的集中管理和共 享，大大提升了服务质量。
+In 2016, CREC always insisted on the general idea of "ever perfecting and continuous improvement" and adhered to people oriented concept to constantly improve its service quality in an attitude of highly responsible for the nation, the people and the corporate. At the same time, we fully protect the customer's business sensitive information and personal privacy.
+In project quality management, CREC seriously implemented ISO9000 system standard and Measures for Project Quality Supervision and Management, vigorously carried out QC activities, developed feasible quality plan, set up professional quality engineers and prepared special excellence programs to ensure the quality of excellence to achieve the goal.
+In industrial equipment service, based on major project or product, the company constantly enhanced pre-sale, sale and after-sale services. In addition, it went into the front line and work site to understand on-site demand, collect product feedback opinions in order to continuously improve its product and service quality and promote its management level.
+In financial service, the company cooperated with large financial institutions such as banks, insurance companies and trust securities to innovate and develop financial products by making full use of central enterprises' financial resources and advantages of abundant high-quality assets so as to transform owner-related high-quality infrastructure investment into various financial products and introduce them to institutions and individual investors. At the same time, with the needs of owner development, it actively carried out the integration of industry and finance to lay a solid foundation for in-depth cooperation between enterprises and financial institutions.
+Information 1: In 2016, China Railway Electrification Bureau conscientiously did a good job to ensure the railway transport and management services in major festivals and important activities. Especially during the Hangzhou G20 Summit it made great efforts to ensure smooth transport of a number of high-speed rails including Hangzhou-Huangshan High-speed Rail, Hangzhou-Changsha High-speed Rail and Hangzhou-Ningbo High-speed Rail, etc.
+Information 2: In 2016, supported by cloud computing platform and big data technology, China Railway Engineering Equipment Group Co., Ltd established TBM optimization decision-making theory and intelligent control expert system. It actively built up an efficient and unified digital remote construction technology monitoring platform and collaborative design platform to achieve R&D data centralized management and sharing, thus greatly enhancing the quality of service.
+Information 3: China Railway Huida Insurance Broker Ca, Ltd. has diversified and efficient underwriting services. It tailored insurance scheme for the insured to improve the cost performance of insurance premiums, reduce the insurance costs of the insured. In addition, it established a complete business chain service model. As of the end of 2016, the cumulative premium income was about RMB 580 million Yuan.
+资料3 ：中铁汇达保险经纪有限公司承保服务高效多
+样，为投保人量身定制保险方案，提高保险费的性价 比，降低各投保人保险成本，并建立了完整的业务链 条服务模式。截至2016年底，累计实现保费收入约5及 亿元。
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+15
+建设精品工程
+2016年，中国中铁继续发扬“精心设计，绘制时代 蓝图；科学施工，构筑精品工程”理念，始终把每一 个施工现场管理作为一个系统工程，通过开展标准化 工地达标活动，严把质量关口，严格执行施工工艺标 准，不断提高建筑产品质量，不断丰富建筑产品内 涵，努力把每一项工程都建设为国际一流建筑和百年
+样口丁壬口
+不冃口 口丄程〇
+2016年，公司13项工程荣获中国建设工程鲁班奖，分 别是：新建沈阳南站工程（站房部分）、秦皇岛金梦 海湾2号3号地块住宅项目一期工程、新建南宁至黎塘 铁路南宁东站站房及相关工程、新建责阳至广州铁路 责阳北站站房工程、新建宝鸡至兰州铁路客运专线兰 州西客站站房工程、新建宁波铁路枢纽北环线工程甬 江特大桥、责阳市新庄污水处理厂二期工程、责广铁 路油竹山瞇道、马鞍山长江公路大桥、舟山大陆连岛 工程金塘大桥项目、安徽名人馆、孟加拉卡纳夫里三 桥、巴布亚新几内亚独立国菜伽马-珀尔盖拉公路工 程。至此，中国中铁累计有151项工程获此殊荣。
+Construction of High-Quality Project
+In 2016, CREC continued to carry forward the philosophy of "elaborately design to draw the blueprint for the times; scientifically construct to build high-quality project". The company has always made every construction site management as a system engineering. Through standardization of site compliance activities, it strictly controlled quality and strictly implemented construction technology standards. It constantly kept improving the quality of construction products and enriching the content of construction products. Moreover, it strove to build every project as an international first-class architecture and a hundred-year fine project.
+In 2016, CREC's 13 projects were awarded Luban Prize for China Architecture Project, which respectively were new Shenyang South Railway Station project (station building part), Phase I construction of residential project of Plot 2 and Plot 3 of Qinhuangdao Golden Dream Bay, Nanning East Station building and related projects for new Nanning-Litang Railway, Guiyang North Station Station building project for new Guiyang-Guangzhou Railway, Lanzhou West Railway Station building project for special passenger line of new Baoji-Lanzhou Railway, Yongjiang super-large bridge of North Ring Road project of new Ningbo Railway Terminal, Phase II Project of Xinzhuang Sewage Treatment Plant in Guiyang, Youzhushan Tunnel of Guiyang-Guangzhou Railway, Ma'anshan Yangtze River Highway Bridge, Jintang Bridge construction of Zhoushan mainland-island project, Anhui Hall of Fame, Bangladesh Third Karnaphuli Bridge, Leghama -Pearl Galla Highway Project of Papua New Guinea Independent State. Till now, CREC has accumulated 151 projects awarded with this prize.
+南宁东站
+浙江舟山大陆连岛工程金塘大桥
+贵广铁路油竹山隧道
+宁波北环铁路甬江特大桥
+中国中铁股份有限公司	SOCIAL
+2〇16 社会责任报告	RESPONSIBILITY REPORT IN 2016
+	促进经济发展 Promotion of Economic Development
+	社会贡献价值
+	Social Contribution Value
+	持续推动就业 Continuous Promotion of Employment
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+17
+促进经济发展
+中国中铁致力成为国民经济发展的支柱。2016年， 公司通过完成全球市场，特别是中国市场的铁路、公 路、轨道交通、港口、市政、机场等基础设施建设， 拉动了全球和地方经济增长，促进了经济发展和社会 进步，不断为社会创造和积累着优质的物质财富。
+2016年，公司营业收入6433.57亿元，同比增长 3.08%;新签合同额12350亿元，同比增长29%;利税 总额423.12亿元，同比减少2.03%,实现归属母公司净 利润125.09亿元，平均每股收益0.517元，成为社会财 富的重要创造者和社会经济发展的重要推动力量。
+Promotion of Economic Development
+CREC has worked hard to become the prop for the national economic development. In 2016, the company has driven the global and local economic growth and promoted the economic development and social progress through the construction of railway, highway, rail transit, port, municipal building, airport and other infrastructures in the global market especially the Chinese market, and constantly created and accumulated high-quality material wealth for the society.
+In 2016, the company total revenues was RMB 643.36 billion Yuan, with a year-on-year growth of 3.8%; the amount of newly-signed contracts reached RMB 1235 billion Yuan, with a year-on-year growth of 29%; the total amount of taxes & profits was RMB 42.31 billion Yuan, with a year-on-year growth of 2.03%, net profit belonged to parent company was RMB 12.51 billion Yuan, with the average profit of RMB 0.517 Yuan for each share. CREC has become the major creator of social wealth and an important driving force for social and economic development.
+(单位：亿元）
+(Unit: RMB 0.1Billion Yuan)
+2014 年 2015 年 2016 年	2014 年 2015 年 2016 年	2014 年 2015 年 2016 年
+营业收入	新签合同额	利税总额
+Operating income	The amount of new-signed contract	Profit and tax
+18
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+社会贡献价值
+2008年以来，我们在行业中率先披露了公司每股社 会贡献值。
+2016年，我们继续完善评估体系，采用自我统计、 估算与专家评审相结合的方法，研究测算了中国中铁 2016年度企业社会贡献值和每股社会贡献值，供您 参考。
+我们的计算公式：
+企业社会贡献值=盈利贡献+税费贡献+债息贡献+雇员 贡献+公益贡献+其他贡献-环境负贡献-安全质量负贡 献-其他负贡献。
+每股社会贡献值=企业社会贡献值/总股本 近三年统计情况：
+中国中铁2014年企业社会贡献值为1305.1亿元，每股 社会贡献值为6.13元。
+中国中铁2015年企业社会贡献值为1439.4亿元，每股 社会贡献值为6.3元。
+中国中铁2016年企业社会贡献值为1454.2亿元，每股 社会贡献值为6.37元。
+Social Contribution Value
+Since 2008, we have taken the lead to disclose the social contribution value per share in the industry.
+In 2016, we continued to improve the assessment system, researched and estimated corporate social contribution value per share of CREC in 2016 with the method of combination of self-statistics, estimation and expert assessments, which is just for your reference.
+Our formula:
+Corporate social contribution value = profit contribution + tax contribution + debt interest contribution+ employee contribution
++ the public wel^re contribution + other contributions - negative contribution to the environment - negative contribution to the safety and quality - other negative contributions.
+Social contribution value per share = corporate social contribution value/total equity
+The statistics in recent three years:
+The corporate social contribution value of CREC in 2014 reached RMB 130.51 billion Yuan, and the social contribution value per share was RMB 6.13 Yuan.
+The corporate social contribution value of CREC in 2015 reached RMB 143.94 billion Yuan, and social contribution value per share was RMB 6.3 Yuan.
+The corporate social contribution value of CREC in 2016 reached RMB 145.42 billion Yuan, and social contribution value per share was RMB 6.37 Yuan.
+术语解释：
+(1)	盈利贡献：公司通过实现盈利为股东创造的价f直
+(2)	税费贡献：公司为国家和地方财税缴纳的税收、费用 等价值
+(3)	债息贡献：公司为债权人创造的利息等价值
+(4)	雇员贡献：公司为员工（含农民工）支付的工资福利 价值
+(5)	公益贡献：包括捐款捐物在内的企业扶贫助困、奉献 爰心等直接支出
+(6)	其他贡献：前述所列项以外的企业活动给社会带来的 正效益评估值
+(7)	环境负贡献：企业行为对环境造成的负影响价f直
+(8)	安全质量负贡献：企业安全质量事故对社会造成的负 影响价值
+(9)	其他负贡献：前述所列项以外的企业活动给社会带来 的负效益评估值
+Terminological Interpretation:
+(1)	Profit contribution: the value that the company has created through making profits for shareholders.
+(2)	Tax contribution: the value that company has paid the state and local tax revenue, fees and others.
+(3)	Debt interest contribution: the value such as interest that company has created for creditors.
+(4)	Employee contribution: the value of wages and benefits paid by the company for employees (including migrant workers).
+(5)	Public welfare contribution: the direct expenditures for helping the poor, dedication of love and others including donated money and things.
+(6)	Other contribution: the positive benefits assessment value that corporate activities bring for the society except the above items listed.
+(7)	The negative contribution to the environment: the negative impact value on the environment caused by corporate behaviors.
+(8)	The negative contribution to the safety and quality: the negative impact value on the society caused by corporate safety and quality accidents.
+(9)	Other negative contribution: negative benefits assessment value that corporate activities bring to the society except the above items listed.
+SOCIAL
+RESPONSIBILITY REPORT IN 2016
+中国中铁股份有限公司 2016社会责任报告
+19
+为农民工提供就业岗位
+持续推动就业
+中国中铁始终把促进就业作为公司社会责任的一项关 键内容。2016年，公司认真落实《集体合同》员工 上岗就业承诺，干方百计促进企业下岗职工实现再就 业。公司每年通过接收大中专毕业生、接收转业军 人、通过人才市场引进人才等形式，为社会创造和提 供了大量新的岗位。2016年，全公司新接收大中专毕 业生9702人，军转干部在京安置工作也得到国务院军 转办肯定。
+2016年，全公司为180万农民工提供了就业岗位，在大 力推行农民工与职工“五同”管理的基础上，通过开 展向协作队伍派遣党群工作协理员、全面强化班组长 安全质量责任制，进一步加强对一线农民工的管理、 支持和帮扶，同时，采取多种措施，保证农民工工资 按时足额发放。我们坚持用工平等原则，禁止聘用强 制劳工及童工。坚持提供多元化发展机会，不会因性 别、种族、宗教、年龄、国籍而歧视员工。
+资料：2016年，公司严格落实《人才引进管理办 法》，把好人才引进关，组织所属单位人力资源部门 在同济大学、西南交大、天津大学等高校集中开展了 主专业大学毕业生招聘工作，共招聘优秀大学毕业生 400余人，为企业补充了新鲜血液和后备力量。
+Continuous Promotion of Employment
+CREC always fulfills employment responsibility which is taken as one key content of its corporate social responsibility. In 2016, CREC strictly implemented the staff employment commitment of Collective Contract making every endeavor to promote laid-off employees for re-employment. Every year, the company will create and provide large amounts of new job positions for the society through receiving the graduates from junior college and technical secondary school, receiving demobilized armyman and introducing talents from HR market. In 2016, the whole company received more than 9702 new graduates from junior college and technical secondary school, and was praised by Military Demobilization Office of the State Council for its good reception work for demobilized army cadres.
+In 2016, the whole company provided employment opportunities for 1.8 million peasant workers. On the basis of vigorously promoting “Five Same” Management for peasant workers and staff, the company dispatched political assistant to collaborative team for party-masses working and enhanced the team leader safety and quality responsibility system. It further intensified management, support and help to the front line peasant workers and took many measures to ensure it could pay wages to peasant workers on time in full. We adhere to the principle of equality of employment, prohibit the use of forced labor and child labor. Adhere to provide diversified development opportunities, will not be discriminated against by gender, race, religion, age, nationality and staff.
+Information: In 2016, CREC strictly carried out Measures for CREC Talent Introduction Management for talent introduction control. It organized human resources departments of its affiliated units to conduct graduates recruitment work for main specialties in Tongji University, Southwest Jiaotong University, Tianjin University and other colleges and universities, and a total of more than 400 excellent university graduates were recruited, adding fresh blood and reserve forces for the corporate.
+新员工入职培训
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+	维护员工权益 Maintenance of Staff's Rights and Interests
+	促进员工成长
+	Promotion of Staff's Growth
+	加强三工建设 Reinforcement of Three Projects Construction
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+维护员工权益
+中国中铁高度重视员工权益保护，坚持男女平等，依法 签订劳动合同，建立科学的薪酬管理制度，维护职工合 法权益。
+劳动合同管理
+2016年，公司认真贯彻落实《劳动合同法》，员工劳动 合同签订率达到100%，严格执行合同条款；认真贯彻落 实国家有关劳务派遣用工的法律法规，严格规范企业劳 务派遣用工管理，有效维护企业员工的合法权益。员工 因不能胜任岗位或严重违反公司规章制度等，双方将终 止劳动合同。
+员工薪酬管理
+公司逐步建立健全了员工工资正常增长和收入保障机制， 保障企业员工工资按时足额发放，让企业发展成果更好的 惠及员工。2016年，公司员工收入增长与企业经济效益增 长相适应，员工收入水平随着企业发展稳步提高。
+员工社保管理
+公司切实保障职工合法社保权益，督促成员企业及时为 职工参加基本养老保险、基本医疗保险、工伤保险、失 业保险及生育保险。积极贯彻落实国家关于行业、企业 社会保险纳入地方管理的要求。2016年大力规范推进企 业年金管理，督导成员企业建立年金计划。
+员工民主权利
+2016年，公司召开二届二次职代会，由工会代表全体员 工与企业签订了《中国中铁2016年集体合同》；坚持职 代会审议行政工作报告、民主评议领导人员、职工提案 报告等制度，进一步畅通了职工民主参与、民主管理、 民主监督的渠道。
+员工生活保障
+2016年，公司认真贯彻落实《职工生活保障工作指导 意见》，全面推进“三让三不让”职工关爱工程、“两 节送温暖”等活动，积极为困难员工排忧解难，检据 报销“三不让”资金5648万元，帮扶3万余人次；筹集 “两节送温暖”资金1.65亿元，走访慰问员工、离退休 人员、一线员工和农民工25万余人次；发放金秋助学款 750多万元，资助困难职工子女3933人。
+员工休假制度
+公司严格遵守国家劳动法律法规，认真执行国家《员工 带薪年休假条例》及其他各类假期规定。对在法定节假 曰、公休假日工作和延长工作时间的职工，按照国家法 律规定支付薪酬及加班工资。
+Maintenance of Staff's Rights and Interests
+CREC paid high attention to maintenance of staff's rights and interests, and supported gender equality. Through signature of labor contract according to law, it established a scientific salary management system and maintained the staff's legal rights and interests.
+Labor Contract Management
+In 2016, the company strictly implemented the national Labor Contract Law, and the signature rate of labor contract in the whole company reached 100%. Moreover, it strictly executed contract clauses; in addition, it earnestly implemented national laws and regulations on contract workers sent by corporate, strictly standardized management on contract workers sent by corporate, and effectively maintained the staff's legal rights and benefits. If the employee is unable to perform the job or seriously violates the rules of the company, both parties will terminate the labor contract.
+Staff Salary Management
+CREC built sound regular employee salary increase mechanism and income guarantee mechanism to ensure the staff salary could be paid on time in full so as to better benefit its staff by means of corporate development achievements. In 2016, the staff income growth could adapt to corporate economic benefit growth, and the level of staff income has steadily improved with the corporate development.
+Staff Social Insurance Management
+CREC protected legal social security rights and interests of the staff, supervised and urged member corporates to join in primary endowment insurance, basic medical insurance, work-related injury insurance, unemployment insurance and maternity insurance for the staff. In addition, the company actively implemented national requirements about industry and corporate social insurance to be listed into local management. In 2016, it vigorously standardized and boosted enterprise annuity management, supervised member corporates to establish annuity plan.
+Democratic Rights of Staff
+In 2016, the company held the 2nd session of the second workers' congress. On the congress, the labor union signed CREC 2016 Collective Contract with the corporate on behalf of all staff; it insisted on the systems of workers' congress review of administrative work report, democratic appraisement to leaders, and staff proposal report, and further unblocked the channel for democratic participation, management and supervision.
+Life Guarantee for Staff
+In 2016, CREC seriously carried out Guidance to Staff Life Guarantee Work, further deepened the “three permissions and three preventions” commitments for staff care program and the activity of "warmth-delivery in two festivals" to help staff solve the difficulties. It totally inspected and reimbursed special fund of over RMB 56.48 million Yuan for "three preventions" activity, and helped over 30,000 staff in difficulty. The company raised warmth-delivery fund of RMB 165 million Yuan for "warmth-delivery in two festivals', visited over 250,000 staff, retirees, first-line staff and peasant workers, and granted autumn study aid payment of RMB 7.50 million Yuan to help 3933 children of the needy staff.
+Staff Holiday System
+The company strictly complied with the national labor laws and regulations, carefully implemented the national Regulations on Paid Annual Leave of Employees and various other holiday regulations. It paid remuneration and overtime salary to staff that worked on legal holidays, public holidays or work overtime according to national legal provisions.
+22
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+BIM技术、算量软件操作培训
+促进员工成长
+中国中铁大力实施“人才强企”战略，把人才资源视为 企业的第一资源，努力做到人才资源优先开发、人才结 构优先调整、人才投入优先保证、人才制度优先创新。 公司有工程、会计、经济、政工多个系列的专业技术职 务人员晋升评审委员会，按照公司有关规定对申报上述 系列高级专业技术职务人员进行资格评审。
+2016年，公司研究制定了中国中铁“十三五”人才发展规 划和人才培训规划，为深入推进人才强企战略，打造“八 支人才队伍”，提供了蓝图和依据。公司培养的“全国农 民工楷模”巨晓林当选全国总工会副主席，“全国知识型 产业工人”窦铁成当选陕西省总工会副主席。
+2016年，公司先后举办了 2期领导干部井冈山理想信念 培训班、2期领导干部政治理论培训班、2期中央党校国 资委分校处级干部进修班，大力开展理想信念、党风党 纪、政治理论教肓，共培训各级领导人员305人次。全 公司共培训各级各类人才30余万人次，促进了人才队 伍能力素质的大幅度提高。
+2016年，公司组织召开了股份公司级专家评选推荐会 议，对已聘任的40名中国中铁专家进行了任期满业绩考 核，增补了 32名中国中铁专家，截止目前股份公司共有 中国中铁特级专家10名，中国中铁专家72名。以股份 公司级专家为主体，积极做好高层次专家的推荐评选工 作，全年8人荣获茅以升铁道工程师奖，6人荣获詹天佑
+铁道科学技术奖，3人荣获全国工程勘察设计 大师，其中，中铁瞇道集团洪开荣获得詹天佑 大奖荣誉称号，这是股份公司继王梦恕院士之 后第二次摘得此项殊荣。全年共评审通过教 授级高级工程师173人、高级专业人才2660余 人。
+2016年，公司继续开展国际工程后备人才 “3+1”订单式培养工作，在7所合作高校共 计招收了 322名大三学生，比去年增加110 人。与此同时，第一届国际工程班毕业的200 余名大学生全部分配到各个海外项目，开始了 岗位实践锻炼。第一届中国中铁国际工程研修 班圆满毕业的50名青年骨干人员经过历时近 10个月的脱产学习，全面提高了外语水平， 进一步熟悉掌握了国际工程合同、法律、商 务、管理等知识，为今后更好地投身于国际业 务发展奠定了坚实基础。
+资料：2016年，公司组织开展了“讲理想、 比贡献”活动先进集体、先进个人评选，有5 家单位获得“先进集体”荣誉称号，10人获得 “先进个人”荣誉称号，并在公司科技大会上 进行表彰，进一步激发了广大专业技术人员创 新创效的热情。
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+23
+员工素质拓展训练
+Promotion of Staff's Growth
+CREC strongly implemented the "Talent Corporate" strategy, treated the talents as the first corporate recourse, made effort to give priority to development of talent resources, give priority to adjustment of talent structure, give priority to talent investment and give priority to innovation of the talent system. The company has engineering, accounting, economic and political work a series of professional and technical staff promotion review committee to review the qualifications, the series of senior professional and technical staff in accordance with the relevant provisions of the company.
+In 2016, the company developed the CREC "13th Five-Year" talent development plan and talent training program, in order to provide a blueprint and basis for further promotion of the strategy of talent thriving enterprises and creation of "eight talent teams". The company's “national model of migrant workers” JuXiaolin was elected v'ce chairman of the National Federation of trade unions, the “national knowledge industry workers” Dou Tiecheng was elected vice chairman of the Shaanxi Provincial Federation of trade unions.
+In 2016, the company organized Jinggangshan ideal and faith training class twice for leading cadres, theoretical training class twice for leading cadres, class for advanced studies twice for department leaders in SASAC branch of Party School of the CPC Central Committee to vigorously carry out the education on ideal and feith, party style and party discipline, political theory, and has trained 305 leaders at all levels. The whole company has totally trained over 300,000 talents in all fields and promoted the substantially improvement of talent team in capacity and quality.
+In 2016, the company organized a stock company-level expert selection and recommendation meeting, carried out performance assessment to 40 appointed CREC experts in their terms, and added 32 CREC experts. Up to now, the stock company owns a total of 10 special-grade CREC experts and 72 CREC experts. By taking stock company-level experts as the main body, it actively performed high-
+level expert recommendation and selection work. In 2016, 8 people won Mao Yisheng Railway Engineer Awards, 6 people won Zhan Tianyou Railway Science and Technology Awards, 3 people won the title of national engineering survey and design master, of which, Hong Kairong from CRTG (China Railway Tunnel Group) won the honorary title of Zhan Tianyou Award, which was the second time for the stock company to won this laurel after Academician Wang Mengshu. In 2016, a total of 173 professor-level senior engineers and 3760 senior professional talents passed the assessment.
+In 2016, the company continued to carry out "3 +1" order-oriented training work for international engineering reserve talent, and totally recruited 322 junior students in 7 cooperative colleges and universities, an increase of 110 students over last year. At the same time, more than 200 college students graduated from the first international engineering class were assigned to various overseas projects to begin the actual practice. 50 young backbones who successfully graduated from the first CREC International Engineering Seminar have completed full-time study of nearly 10 months. They have improved the level of foreign languages and become familiar with the international engineering contracts, laws, businesses, and management knowledge, laying a solid foundation for better participation in the development of international business in the future.
+Information: In 2016, the company organized the appraisal and election of advanced collective and advanced individual in "advocating ideal, comparing contribution" activities. Five units won "advanced collective" honorary title, and 10 people won "advanced individual" honorary title, who were commended in the company science and technology meeting, thus ^rther inspiring the enthusiasm of the majority of professional and technical personnel for innovation and benefit-making.
+24
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+农民工运动会
+加强三工建设
+2016年，中国中铁坚持以工地生活、工地文化、工地 卫生“三工”建设为抓手，全年累计投入“三工”建 设资金约2.7亿元，全面改善施工一线的生活文化卫生 水平，为一线员工营造了良好的生活和工作环境。
+资料1： 2016年，中铁六局投入“三工”建设经费1855 万元，广泛开展“我的六局我的家”主题教肓活动， 在各个工程项目开展了“幸福之家”创建活动，切实 改善一线员工的生产生活条件。
+资料2:中铁大桥局开展星级“幸福之家”创建活动， 在一线项目部广泛建设“职工书屋”，丰富一线员工文 化生活，建成全国职工书屋1个，省级职工书屋2个。
+资料3 :中铁建工青岛公司连续两年在项目部举办农民 工子女“爱心暑托班”，利用暑假将部分农民工留守 儿童接到项目部，以农民工服务站为托儿班教室，安 排专门的辅导老师为孩子们进行公益性全日制授课， 根据孩子们的年龄跨度，制定相应课程，包括假期作 业跟踪辅导、课外兴趣开发、文体娱乐、工地安全教 肓等，一方面让孩子们更多的陪伴在父母身边，另一 方面让孩子们了解父母外出打工的艰辛，教肓他们学 会感恩父母、理解父母、孝敬父母。项目部还为他们 发放了书包、文具、书籍、玩具等日用品。
+农民工子女“爱心暑托班”
+Reinforcement of Three Projects Construction
+In 2016, CREC adhered to the “three projects” construction as the main content, namely construction site life, culture and hygiene. It accumulatively invested RMB 270 million Yuan in the "three projects" construction, fully improved the standard of living, culture and hygiene in forefront of the construction and created good living and working environment for front-line staff.
+Information 1: In 2016, CREC No.6 invested RMB 18.55 million Yuan for 'Three Projects" construction. It extensively carried out educational activity with the theme as "My CREC No.6, May Family". In addition, it carried out the "Happy Family" creating activity in all construction projects, and effectively improved the production and living conditions of front-line staff.
+Information 2: CRBB (China Railway Bridge Bureau) carried out star-level "Happy Family" creating activity and extensively set up "staff bookstore" in front-line project departments to enrich the cultural life of front-line staff. It has established one national staff bookstore and two provincial staff bookstores.
+Information 3: CRCEG (China Railway Construction Engineering Group) Qingdao Company has held the "Love Summer Vocation Class" for the children of peasant workers for two consecutive years. It received the left-behind children of some peasant workers to the project department in summer vacation, took peasant worker service station as reception classroom, and arrange special teachers to make full-time public welfare teaching for the children. According to the age span of the children, the teachers developed appropriate courses, including holiday homework follow-up and guidance, extracurricular interest development, sports and entertainment construction site safety education. On the one hand, children can be more accompanied by their parents, on the other hand, the children can understand the hardships of their parents working in the city, so as to educate them to learn to thank their parents, understand their parents, and respect their parents. In addition, the project department also issued bags, stationery, books, toys and other daily necessities for them.
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+
+完善管理体系
+Perfection of Management System
+
+落实保障措施
+Implementation of Safeguard Measures
+
+保障职业健康
+Concerns about Occupational Health
+
+26
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+安全质量承诺签名
+完善管理体系
+中国中铁始终将“保持安全生产的稳定局面，为社会 提供安全优质的建筑产品，为公众提供安全愉悦的周 边环境，为员工创造安全健康的工作条件”作为履行 社会责任的重要方面。在长期的施工生产和项目管理 过程中，形成了一整套完善的安全管理体系，包括安 全生产责任制、防治重大事故、安全投入、安全教 肓、安全管理和安全督查、安全考核及奖惩等方面。
+中国中铁安全观：隐患险于明火，防范胜于救灾，责 任重于泰山。
+安全管理工作方针：安全第一，预防为主，综合治
+理。
+安全管理工作原则：统一领导、落实责任、分级管 理、分类指导、全员参与。
+安全管理目标：建设本质安全型企业。
+2016年，中国中铁深入贯彻党中央、国务院有关安 全生产工作的一系列重要精神，进一步完善安全质量 管理规章制度，坚守“红线”意识，强化“零事故” 理念。公司先后研究制定了《关于进一步加强作业层 建设全面实行班组长安全质量责任制的指导意见》、 《关于规范施工管理进一步明确有关重要事项呈报、 履行审批程序要求的通知》、《关于切实加强投资项 目安全生产管控的通知》等文件，进一步规范施工生 产行为，有效防空安全质量风险。
+职工安全宣誓
+Perfection of Management System
+CREC is constantly taking "to maintain stable condition of safe production, to provide the society with safe and good-quality architectural products, to provide the public with pleasant environment and create safe and health working condition for the staff" as the most important aspect of its social responsibility. In the long-term construction production and project management process, CREC formed a complete set of perfect safety management system, including the safe production responsibility system, prevention of major accidents, safety input, safety education, safety management and safety inspection, safety assessment, rewards and punishments and so on.
+CREC safety concept: Hidden dangers is more dangerous than open fire, prevention is better than disaster relief, and responsibility is extremely heavy.
+Safety management policies: Safety first, prevention as the main and comprehensive management.
+Safety management principles: Unified leadership, responsibility implementation, classification management and guidance, full participation.
+Safety management objectives: Building of intrinsic safe enterprise.
+In 2016, CREC deeply carried out a series of important spirits about safe production work issued by Central Party and the State Council, and further perfected regulations on safety and quality management. It insisted on "Red Line" awareness and intensified "Zero Accident" concept. The company studied and formulated the documents including Guidance Opinions on Further Strengthening the Construction of Team Leader Safety and Quality Responsibility System at Operation Level, Notice on Standardizing the Construction Management and Further Clarifying the Procedure Requirements for Important Event Reporting and Approval, Notice on Strengthening Safety Production Control to Investment Project". In addition, it further standardized construction and production behavior and effectively prevented and controlled safety and quality risk.
+班前安全教育
+落实保障措施
+2016年，公司部署开展了为期两年的违规违章整 治行动，提出了 12项具体保证措施，夯实安全质量 管理基础。公司还组织有关专家分别开展了上、下 半年安全生产大检查，以瞇道与地下工程、大型临 时设施、支撑体系、机械设备运转、现场惯性“三 违”、分包现场管控等为检查重点，对在建重点项 目的瞇道、地铁、盾构、营业线施工、跨公路铁路 现浇连续梁、预制梁架设、高填（挖）方路基、桥 梁及路基附属工程、梁场及预制件场、拌合站等工 点进行了直面作业现场的安全质量检查。
+2016年，公司编写了《中国中铁地铁施工作业标准 化手册》，大力推进地铁施工标准化作业和盾构机 维管、盾构测量规范化管理。同时，在所属施工企 业全面推进安全生产信息化建设和建筑企业安全质 量标准化管理。
+资料1: 2016年，中铁四局大力推行安全质量科技化 与信息化管理，进一步优化完善了安全质量隐患排 查信息化系统的功能，并在工程项目进行了试点、 推广，收到了良好效果。同时，中铁四局先后举办6 期“三类人员”安全质量培训、复审班，10期安全 总监安质部长资格认证班，为安全生产奠定基础。
+资料2: 2016年，中铁七局强化区域包保、系统监 管、条块结合的安全管理模式，以“作业零违章、 隐患零容忍”为卡控红线、以“员工零死亡、项目 零事故”为工作底线，明确三级安全目标，做到安 全质量过程管控全覆盖、无盲区，安全质量监督管 理零遗漏、无死角，实现了安全零责任事故。
+SOCIAL	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+项目部安全体验区
+Implementation of Safeguard Measures
+In 2016, the company deployed and carried out a two-year violation rectification action, put forward 12 specific safeguard measures, and consolidated the basis of safety and quality management. The company also organized relevant experts to carry out safety production inspection in the first and second half years, respectively. By taking tunnel and underground engineering project, large temporary facilities, support system, mechanical equipment operation, site inertial "three violations", subcontracting on-site control as key inspection points to conduct onsite safety and quality inspection to the construction of tunnels, subways, shields, and operational lines of key projects under construction, as well as cross-road railway cast-in-place continuous beam, prefabricated beam erection, high-filled (digged) roadbed, bridge and subgrade accessory works, girder fabrication field and prefabricated field, mixing station and other working points.
+In 2016, the company compiled the "Manual of Standardization to CREC Subway Construction Operation", and vigorously promoted the standardized operation for subway construction and shield machine maintenance management as well as standardized management for shield measurement. At the same time, it boosted the safety production information construction and safety and quality standardization management to its affiliated construction enterprises.
+Information 1: In 2016, CREC No.4 vigorously promoted the safety and quality technicalization and informatization management, and further optimized and improved the information system for safety and quality hidden danger identification, and carried out a pilot in engineering projects for promotion, having received good results. In the meanwhile, CREC No.4 has conducted 6 safety and quality training and review classes for "three categories of personnel', and 10 safety supervisor and safety and quality director certification classes, laying a foundation for safety production.
+Information 2: In 2016, CREC No.7 strengthened the safety management model of regional responsibility, system supervision, and integration of departments and regions at different levels. It took "zero violation in operation, zero tolerance to hidden danger" as the red line for control, and took "zero death, zero project accident" as the bottom work line to define three-level safety objectives in order to achieve full coverage and no dead zone in the safety and quality process control, and zero omission and no dead space in the safety and quality supervision and management so as to achieve zero safety accident.
+27
+28
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+母婴室“妈咪屋”
+保障职业健康
+2016年，认真组织宣传落实《中华人民共和国职业病 防治法》（2016修订），坚持依法依规做好职业健康 工作，以“建设项目职业病危害预评价、办理工伤保 险、全员职业健康教肓培训、告知职业危害因素、完 善健康体检档案、配备合格劳动保护用品、加强过程 监督检查”为主要措施，狠抓一线项目（工厂）职业 健康管理工作。全公司开展各类安全教肓培训活动共 计21800次，受教肓和考核人员达282326人次，提升 了一线作业人员职业卫生健康防护意识。
+全公司进一步完善员工健康档案，定期组织员工体 检，为员工办理职业伤害保险，开展健康讲座，引导 员工和企业共同做好职业危害源头控制，积极配合相 关部门做好职业危害科学防治。在工程现场，加大资 金投入力度，改善员工工作环境，不断完善现场防 尘、降矂及安全设施，加强作业场所有毒有害气体、 粉尘、矂声的检测和治理，为作业人员提供符合安全 卫生标准的劳动保护设施和个人防护用品，最大程度 地减少职业危害，积极为员工创造安全、卫生、舒 适、和谐的工作环境。
+资料1:中铁一局坚持推进一线心理咨询服务，2016 年新培养专兼职心理咨询人员337名，建立心理咨询室 298个，开办心理咨询讲座224场次，共计近8000名员 工接受了心理咨询辅导。
+资料2:中铁大桥院在每年定期组织职工体检、女职工 妇检和两癌筛查的基础上，根据体检结果，有针对性 的邀请相关专家来单位就职工关心的健康问题进行授 课和答疑解惑，同时加强对女职工的关爱，启动了 3个 妈咪小屋，为特殊时期的女职工提供服务。
+组织员工体检
+Concerns about Occupational Health
+In 2016, CREC seriously organized the implementation of "Law of the People's Republic of China on Prevention and Control of Occupational Diseases" (revised in 2016), adhered to doing occupational health work in accordance with the laws and regulations. By taking "occupational hazard pre-evaluation in construction project, conducting of occupational injury insurance, overall occupational health education and training, informing of occupational hazards, improvement of health examination record, allocation of qualified labor protection products, and strengthening of process supervision and inspection" as the main measures to vigorously promote the occupational health management to front-line (factory) projects. The whole company carried out various safety educations and trainings as well as activities for 21800 times with 282326 person-time of staff who received education and assessment, thus enhancing the occupational health and health protection awareness of front-line operators.
+The whole company further perfected staff health record, regularly organized staff physical examination, conducted occupational injury insurance for the staff, carried out health lectures so as to lead staff and enterprises to control the occupational hazard source and actively carry out scientific prevention and treatment to occupational hazard by cooperating with related departments. On the construction site, the company continued to increase fund investment, improved staff's working conditions, constantly improved the site dustproof, noise reduction and safety facilities, enhanced the inspection and governance of all hazardous gas, dust, noise in the workshop, provided the personnel with working protection facilities and personal protecting devices that meet the safety and sanitation standards, maximally minimized the occupational hazards, and actively created a safe, clean, comfortable and harmonious working environment for the staff.
+Information 1: CREC No.1 insisted on promoting the front-line psychological counseling services. In 2016 it newly educated 337 full-time and part-time psychological counselors, established 298 psychological counseling rooms, conducted 224 psychological counseling seminars, and a total of nearly 8,000 employees received psychological counseling.
+Information 2: BRDI (China Railway Major Bridge Reconnaissance & Design Institute Co., Ltd.) organizes regular staff physical examination, female workers examination and two cancers screening every year, on the basis of which, it targeted to invite relevant experts to the company to teach and answer questions about health problems concerned about by the staff, in the meanwhile, it strengthened the care to female workers. Moreover, it launched 3 mummy cabins to provide services for female workers in special period.
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+元善创新体系
+Improvement of Innovation System
+引领产业进步
+Leading Industrial Progress
+强化创新驱动
+Strengthening Innovation Drive
+
+30
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+完善创新体系
+公司根据国家和建筑行业对科技创新提出的新需求， 以及企业自身发展需要，加快实施科技创新驱动发 展，对已有的科技资源进行统筹规划、优化整合，不 断完善以市场为导向、以企业为主体、以项目为载 体、以国家级实验室为依托、以技术中心为平台、以 专业研发中心为骨干，联合搞攻关、开放搞科研的具 有中国中铁特色的“两级四层”技术创新体系，实现 以中国中铁技术中心为龙头、各成员企业技术中心为 主体、各专业研发中心为骨干的纵向有层次、横向有 分工的技术创新的运作管理模式，为公司科技创新打 下坚实基础。2016年，公司认真落实国家创新驱动发 展战略，承担的国务院国资委中央科技创新管理专项 工作计划中的“中央建筑工程企业创新模式研究”课 题顺利完成。统筹规划，突出创新，召开了股份公司 第五届科技创新大会，制定了《股份公司“十三五” 科技发展规划》和《关于全面实施科技创新驱动发展 的决定》，修订了科技研究开发计划管理办法，制定 了科研经费管理办法，指导公司科技发展，推动企业 结构调整、转型升级。
+Improvement of Innovation System
+According to the new requirements for scientific and technical innovation put forward by the state and construction industry and the demand for corporate self-development the company sped up the implementation of scientific innovation driven development. It carried out overall planning and optimization and integration to existing scientific resources and constantly perfected "two grades and four layers" technical innovation system with Chinese characteristics with market as orientation, corporate as main body, project as carrier, national laboratory as basis, technical center as platform and professional R&D center as backbone through joint tackling and open scientific research so as to achieve technically innovative operation management mode with layers in longitudinal direction and divisions in transverse direction by taking CREC technical center as the leading, all member enterprises' technical centers as main body and all professional R&D centers as backbone, laying a solid foundation for scientific innovation. In 2016, the company seriously implemented the state's innovation-driven development strategy, and successfully completed the project of "Study of Innovation Mode of Central Construction Engineering Corporation" listed in the special work plan for SASAC central scientific innovation management. CREC made overall planning and highlighted innovation. Moreover, it held the 5th stock company scientific innovation meeting, and has made Stock Company's "13th Five-Year Plan" for Science and Technology Development and Decisions on Overall Implementation of Scientific Innovation Driven Development. In addition, it revised measures on management of scientific R&D plan, developed measures on management of scientific research funds to guide the company's scientific development and promote corporate structure adjustment as well as transformation and upgrading.
+科技管理部门
+高速铁路建造技术	股份公司	盾构及掘进技术	桥梁结构健康与安
+国家工程实验室	技术中心	国家重点实验室	全国家重点实验室
+桥梁技术 研发中心
+隧道技术 研发中心
+^电气化技' 术研发 中心
+二级企业科 技管理部门
+施工装备 研发中心
+先进材料及 检测技术研 发中心
+轨道技术 研发中心
+
+BIM技术 研发中心		
+V J		V	/
+商级四层”技术创新体系
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+轉ft*•钱
+
+t
+J%i i. ■■ I "	I i - i
+
+科技创新奖项
+引领产业进步
+作为中国和世界建筑业发展的重要参与者推动者，多 年来中国中铁不仅追求自我的发展，还担当着引领行 业发展的重要责任，努力实现与产业协同共进，主要 表现在扩大产业规模、带动行业自律、引领科技创 新、与合作者共赢的诸多方面。
+作为科技部、国务院国资委和中华全国总工会授予的 全国首批“创新型企业”，拥有“高速铁路建造技术 国家工程实验室”、“盾构及掘进技术国家重点实验 室”和“桥梁结构健康与安全国家重点实验室”三个 国家实验室及7个博士后工作站。拥有11个国家认定的 企业技术中心和40个省部认定的企业技术中心，并先 后组建了桥梁、P遂道、电气化、先进工程材料、检测 技术、轨道和施工装备、城市轨道工程及磁悬浮交通 工程等9个专业研发中心。
+资料1: 2016年，公司获国家科技进步奖3项，技术发 明奖1项；获省部级（含国家认可的社会力量设奖） 科技进步奖320项。截止2016年底，公司共荣获国家 科技进步奖和发明奖107项，其中特等奖5项，一等奖 14项，稳居国内建筑企业榜首；获省部级科技进步奖 2699项。
+资料2: 2016年，公司参建的责阳至广州高速铁路工程 荣获FIDIC最高奖一杰出项目奖，参建的山西中南部 铁路通道、马鞍山长江公路大桥荣获FIDIC优秀工程项 目奖。截止2016年底，公司累计获国家级优秀工程勘 察设计奖91项，省部级优秀勘察设计奖1161项；国家 级优秀工程咨询成果奖78项，省部级优秀工程咨询成 果奖171项。
+资料3:目前，公司拥有有效专利5964项，其中发明专 利1661项；国家级工法166项，省咅P级工法1850项。
+资料4: 2016年，公司通过省部级科技成果鉴定（评 审）77项；参与编制国家标准20项，行业标准58项。 在2016年ENR全球225家最大国际设计企业排名中列第 64位，比2015年提升11位。
+31
+32
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+授权专利
+Leading Industrial Progress
+As the main participator and promoter of the development of Chinese and world architecture, CREC has not only been in pursuit of self-development for many years, but also taken the leading of industrial progress as its important responsibility, which mainly manifested in expanding the industrial scale, driving the industrial self-discipline, leading technical innovation, win-win cooperation with partners and so on.
+As the first batch of national "innovative corporate" granted by Ministry of Science and Technology, SASAC and ACFTU (All China Federation of Trade Unions), the company owns 3 national laboratories, “national engineering laboratory for high-speed rail construction technology” “national key laboratory for shielding and tunneling technology” and "national key laboratory for bridge structure health and safety" as well as 7 postdoctoral centers. The company owns 11 nationally certificated technical centers and 40 provincially certificated technical centers, has successively set up 9 professional R&D centers for bridge, tunnel, electrification, advanced engineering materials and measurement technique, rail and construction equipment, urban rail transit engineering and maglev transportation engineering.
+Information 1: In 2016, the company has been awarded 3 national prizes for progress in science and technology and one invention award, and 320 provincial and ministerial prizes for science and technology progress (including the prizes set by social forces recognized by the state). By the end of 2016, the company has been totally awarded 107 national prizes for progress in science and technology and invention award including 5 special prizes and 14 first prizes, ranking top among domestic construction enterprises; in addition, it won 2699 provincial and ministerial prizes for science and technology progress.
+Information 2: In 2016, the Guiyang-Guangzhou high-speed rail project which the company participated in won the FIDIC highest award - outstanding project award; the railway channel project in central and southern region of Shanxi Province and Ma'anshan Yangtze River Bridge project that the company participated in won the FIDIC excellent project award. By the end of 2016, the company totally won 91 national prizes for excellent project survey and design, 1161 provincial and ministerial prizes for excellent project survey and design, 78 national prizes for excellent project consultation achievements, and 171 provincial and ministerial prizes for excellent project consultation achievements.
+Information 3: At present, the company owns 5964 valid patents including 1661 patents for invention. In addition, it owns 166 national construction methods and 1850 provincial and ministerial construction methods.
+Information 4: In 2016, the company passed 77 provincial and ministerial scientific and technological achievement appraisal (assessment); it participated in preparation of 20 national standards and 58 industrial standards. It ranked the 64th in 2016 ENR 225 global largest international design enterprises, moving up 11 places compared to 2015.
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+世界首条新能源空铁试验线
+中国中铁第五届科技创新大会
+强化创新驱动
+2016年，公司认真贯彻落实国家关于“自主创新， 重点跨越，支撑发展，引领未来”的科技工作指导方 针，结合企业发展实际和工程建设需要，新开科研课 题899项，围绕国家重点支持的高新技术领域和企业 “十三五”科技发展规划，针对高速铁路、大跨度桥 梁、长大瞇道、低碳技术、产业升级、科研成果转 化、产融结合等领域加大科技攻关力度，组织开展科 技攻关，攻克了一系列关键技术难题，进一步增强了 企业科技创新能力。
+资料1: 2016年，中国中铁科技开发计划课题以川藏铁 路、莫斯科-喀山高铁、蒙华铁路、郑徐铁路、拉林铁 路、京张铁路、雅鲁藏布江特大桥、武汉杨泗港长江 大桥、平潭海峡公铁两用大桥、武汉青山长江公路大 桥、琼州海峡跨海工程、高黎贡山瞇道、北京地铁、 深圳地铁、厦门地铁、重庆塔等重难点工程为依托， 重点研究解决400km/h高速铁路关键技术、大跨铁路 斜拉桥箱型组合梁结构技术、大跨径钢箱钢桁结合梁 制作技术、干米级跨度宽幅钢箱及钢箱结合梁斜拉桥 施工技术、复杂环境长大过海地铁瞇道设计关键技术 等关键技术。
+资料2: 2016年，中铁一局等7家单位获中国施工企业 管理协会科技创新先进企业；中铁大桥局张立超等19 人获中国施工企业管理协会科技创新先进个人。
+Strengthening Innovation Drive
+In 2016, CREC carefully implemented the national guidelines for scientific and technical works of "independent innovation, key spanning, supportable development and leading the future" Combined with the actual enterprises development and engineering construction demands, it newly started 899 research projects. Centering on the high-tech fields mainly supported by the state and enterprise "13th Five-Year Plan" for technology development, the company enhanced scientific research strength in high-speed rails, large span bridges, long tunnels, low-carbon technologies, industrial upgrading, transformation of scientific research achievements, integration of industry and finance, organized and carried out scientific and technological research. It overcame a series of key technical problems, and further enhanced the scientific and technological innovation capability.
+Information 1: In 2016, CREC took major and difficult projects as the support among its science and technology development plan projects, including Sichuan-Tibet Railway, Moscow-Kazan high-speed rail, Menghua Railway (from the west of Inner Mongolia to the central China), Zhengzhou-Xuzhou Railway, Lasa-Linzhi Railway, Beijing-Zhangjiakou Railway, Yarlung Zangbo River Bridge, Wuhan Yangsi Port Yangtze River Bridge, Pingtan Strait Railway and Highway Bridge, Wuhan Qingshan Yangtze River Highway Bridge, Qiongzhou Strait Sea-crossing Project, Gaoligongshan Tunnel, Beijing Subway, Shenzhen Metro, Xiamen Metro, Chongqing Tower, and it mainly researched and developed the key technology for 400km/h high-speed rail, the structure technology for box-type composite beam of long-span railway cable-stayed bridge, production technology for long-span steel box and truss composite beam, construction technology for thousand-meter span cable-stayed bridge of wide steel box and steel box composite beam, key technology for seacrossing metro tunnel design under complex environment.
+Information 2: In 2016, 7 units including CREC No.1 were awarded advanced enterprises for scientific innovation granted by China Association of Construction Enterprise Management; and 19 persons including Zhang Lichao from CRBB (China Railway Bridge Bureau) were awarded advanced individual prizes for scientific innovation granted by China Association of Construction Enterprise Management.
+中国中铁股份有限公司 2016社会责任报告
+SOCIAL
+RESPONSIBILITY REPORT IN 2016
+	推进节能减排 Promotion of Energy Saving and Emission Reduction
+	加强环境治理 Strengthening Environment Governance
+	保护生态环境 Protection of Ecological Environment
+
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+第五批全国建筑业绿色施工示范工程
+节能减排知识学习
+推进节能减排
+2016年，公司全面统筹规划“十三五”节能减排工 作，完成公司“十三五”节能减排规划编写。全公司 积极开展节能减排工作，全面推行节能减排标准化工 地建设，推广应用新技术、新工艺和新设备，提高能 源利用效率的同时对污染物排放量进行严格控制，加 大技术改造和淘汰落后设备力度，减少废气、废液的 排放，充分利用废渣等废弃物。2016年全公司无环境 责任事故及节能减排重大违规违纪事件，排放污染物 均达到国家和所在地相应排放标准。
+全公司2016年度万元营业收入综合能耗（可比价） 0.0590吨标煤，同比下降3.27%,顺利完成年度节能 减排工作目标。
+资料1: 2016年，20个项目被确立为第五批全国建筑业 绿色施工示范工程，55个项目获得中国中铁股份有限 公司节能减排标准化工地称号。
+资料2: 2016年，中铁三局在节能减排和环保方面投入 资金近5800万元，并在全公司组织开展“节能减排宣 传周”和“全国低碳日”宣传活动，在项目开展“节 能减排标准化工地”评选活动和节能减排自检自查工 作，有效控制能源消耗，减少污染排放。
+资料3: 2016年，中铁宝桥大力推进节能减排工作，报 废了4台燃煤锅炉、7个废旧储气罐，新建3台天然气锅 炉，并因地制宜不断加大粉尘治理工作力度，投资160 余万元新购置除尘设备，解决了钢轨闪光焊、钢结构 打砂等工序长期存在的粉尘污染难题。
+Promotion of Energy Saving and Emission Reduction
+In 2016, the company fully planned "13th Five-Year" work for energy saving and emission reduction, and completed the compilation of "13th Five-Year Plan" for energy saving and emission reduction. The company actively carried out energy saving and emission reduction work, and fully implemented standardized site construction of energy saving and emission reduction, promoted the application of new technologies, new processes and new equipment to improve energy efficiency while strictly controlling pollutant emissions, increased technological transformation and elimination of backward equipment reduced emissions of waste gas and waste liquid, and made full use of waste residues and other waste. In 2016, there was neither environmental liability accident nor major illegal event on energy saving and emission reduction; and the pollutant emission reached both relevant national and local emission standards.
+In 2016, the comprehensive energy consumption (comparable price) per ten-thousand business income was 0.0590t standard coal, which was reduced by 3.27% on year-on-year basis, and the company successfully completed the annual objectives for energy saving and emission reduction.
+Information 1: In 2016, 20 engineering projects were defined as the 5th batch of national green construction demonstration projects in construction industry, and 55 projects won the title of CREC standardized construction site for energy saving and emission reduction.
+Information 2: In 2016, CREC No.3 invested the funds of nearly RMB 58 million Yuan in energy saving and emission reduction. In addition, it organized and carried out "publicity week for energy saving and emission reduction" and "national low-carbon day". It carried out selection activity of "energy saving and emission reduction standard site" and self-inspection work for energy saving and emission reduction so as to effective control energy consumption and reduce pollution emission.
+Information 3: In 2016, CRBBG (China Railway Baoji Bridge Group Co., Ltd.) vigorously promoted energy saving and emission reduction work. It scrapped 4 coal-fired boilers, 7 waste gas tank, and built 3 new natural gas boilers. In addition, it continued to increase dust control efforts according to local conditions. It invested more than RMB 1.6 million Yuan to purchase new dust removal equipment to solve the long-standing dust pollution problems in steel rail flash welding and steel structure sanding processes.
+36
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+排放物、资源使用、环境及天然资源三个层面的关键绩效指标
+	排放物及能源种类	去年累计 完成值	本年累计 完成值	环境及 天然资源
+	氮氧化物、硫氧化物及其他受			
+废气排放种类及相关排放数据	国家法律及条例规定管理的污 染物			
+温室气体排放总量（吨）	CO2	13166396.5	13195853.6	--
+	其它气体（如有须注明）			
+所产生有害废弃物				--
+所产生无害废弃物总量				--
+细化描述节能减排放量的措施及所得成果	全公司2016年度万元营业收入综合能耗（可比价）0.0590吨标			
+	煤，比去年同期下降3.27°/。，	完成年度节能减排工作目标。		
+细化描述处理有害及无害废弃物的方法、 减低生产量的措施及所有成果 --				
+	电（干瓦）	836790	837891	--
+	汽油（吨）	371160	372650	--
+按类型划分的直接/间接能源 (如电、气或油）	柴油（吨）	1265005	1267443	--
+	天然气（万标准立方米）	3350	4100	--
+	其它能源（如有须注明名称）	--	--	
+总耗水量	水（吨）	--	--	--
+描述能源使用效益计划及所得成果				--
+描述求取适用水源上可有任何问题，以及 提升用水效益及所得成果	无			--
+不适用，略				--
+	公司开展节能减排标准化工地建设已成为常态，		围绕“四节一环保	”开展的
+	节能减排标准化工地建设活动对工程项目节能降耗、降本增效有巨大促进作			
+描述业务活动对环境及天然资源的重大影	用，有效提升能源利用效率，	降低能源消耗总量。根据《中国中铁股份有限		
+响，及已采取管理有关影响的行动	公司重点节能低碳技术评选推广管理暂行办法》		(后简称办法）规定要求，	
+	经严格评审，中铁三局大土方调配路基连续碾压节能降耗技术等8项技术列为			
+	“中国中铁重点节能低碳技术'	”，纳入股份公司重点节能低碳技术目录库。		
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+Key performance indicators in three aspects of emissions, resource use, environmental and natural resources
+	Emissions and Energy Types	Accumulated Completion Value Last Year	Accumulated Completion Value This Year	Environmental and Natural Resources
+Exhaust emission types and related emission data	Nitrogen oxide, sulfur oxide and other pollutants regulated by national laws and regulations	---			--
+--Total amount of greenhouse gas	CO2	13166396.5	13195853.6	--
+emission (ton)	Other gases (specify if any)			
+Hazardous waste generated --				
+Total amount of non-hazardous -waste generated				
+Detailed description of measures and the results obtained in energy saving and emission reduction	In 2016, the comprehensive energy consumption (comparable price) per ten-thousand business income was 0.0590t standard coal, which was reduced by 3.27% on year-on-year basis compared to the last year, and the company successfully completed the annual objectives for energy saving and emission reduction.			--
+Detailed description of methods for handling hazardous and non- -hazardous waste, measures to reduce production and all results				
+	Electricity (kilowatt)	836790	837891	--
+	Gasoline (ton)	371160	372650	--
+Direct/indirect energy classified by	Diesel (ton)	1265005	1267443	--
+type (e.g. electricity, gas or oil)	Natural gas (10,000 standard cubic meters)	3350	4100	--
+	Other energy (specify the name if any)	--	--	
+Total water consumption	Water (ton)	--	--	--
+Describe energy use benefit plan and the results obtained				
+Describe any problems on the applicable water source, and enhancement in water efficiency and results obtained	None			--
+NA, omitted
+Describe the significant impact of operational activities on the environment and natural resources and the actions taken to manage the impact
+The company carried out standard site construction of energy saving and emission reduction, which has become the normal state. Centering on the "four savings and one environmental protection', the company carried out standard site construction activities in energy saving and emission reduction which played a huge promotion role on the project energy saving and consumption reduction as well as energy efficiency so as to effectively enhance energy utilization efficiency and reduce the total energy consumption. According to the requirements of "CREC Interim Measures for Promotion and Management of Energysaving and Low-carbon Technologies" (hereinafter referred to as the Measures), through strict review, 8 technologies including "CREC No.3 Technology of Energy Saving and Consumption Reduction in Subgrade Continuous Rolling in Large Earthworks" was classified as "CREC Key Energy Saving and Low-carbon Technology", and was listed into the stock company directory database for key energy-saving and low-carbon technologies.
+38
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+贵阳新庄污水处理厂二期工程
+京新高速公路沿线防沙固沙成效显著
+加强环境治理
+在环境治理方面，中国中铁把实现人与自然的和谐体 现在每一项工程中，建立了自上而下、全面监控的绿 色环保管理体系，积极做好生态环境的保护工作。公 司各项目部坚持“建优质工程，创文明生态”原则， 落实公司高标准的环境保护和水土保持措施，把“工 程质量和环保水保双优”作为奋斗目标，努力实现优 质工程与优美环境的高度和谐统一。各投资建设项目 按属地法规要求进行环境影响评价，履行环境审批程 序，做好环境保护前置性审查。加强对主要污染物排 放点的监控，在矂声治理、施工扬尘、污染物排放、 取（弃）土场、弃渣运输、水体保护等方面采取有效 措施，做到合规施工、绿色施工。
+资料1:中铁建设投资集团在深圳城市轨道交通11号 线建设过程中，把绿色施工理念贯穿生产各个环节， 做到“绝泥水、抑扬尘、压矂音、靓围挡、降能耗、 不扰民”，其中两个项目部获得国家“AAA级安全文 明标准化工地”，1个项目部获得“全国绿色施工示范 工地”。
+资料2:中铁电化局组织70余名员工作为志愿者参与大 连市海滩垃圾清理公益活动和部分项目部周边社区的 卫生清理活动，积极宣传绿色环保理念。
+Strengthening Environment Governance
+On environment governance, CREC embodied the harmony of man and nature into every project, established the top-to-bottom and allaround monitoring green environmental protection management system and actively implemented the ecological environment protection work. Each project department of the company insisted on the principle of "construction of high-quality project, creation of civilized ecology", implemented company's high standard environmental protection and soil conservation measures and regarded "double excellence in project quality and environmental protection and water conservation" as its goal to strive to achieve the high degree of harmony and unity between high-quality project and beautiful environment. For all invested construction projects, the company carried out environment influence evaluation as per local regulatory requirements, went through environmental approval procedures, and performed prepositive examination for environmental protection. The company strengthened monitoring to main pollute discharge points, and took effective measures in noise treatment, construction dust control, pollute discharge management, soil taking (discarding) site, abandoned residue transport and water body protection in order for compliance construction and green construction.
+Information 1: In Shenzhen urban rail transit Line 11 construction process, CRCIG (China Railway Construction & Investment Group Co., Ltd.) ran green construction concept throughout all production aspects in order for "eradicating muddy water, suppressing dust, lowering noise, beautifying fence, reducing energy consumption, no disturbing residents", of which, two project departments won the title of national "AAA-grade safe and civilized standard site", and one project department won the title of "national green construction demonstration site".
+Information 2: CREC Electricization Bureau organized more than 70 employees as volunteers to participate in Dalian beach garbage cleanup activities and clean-up activities around the community of some project departments, and actively publicized green environmental protection concept.
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+保护生态环境
+中国中铁始终致力于生态环境的保护工作，工程开工 前，均组织专业人士认真进行生态环境保护方面的评 估，制定切实有效的保护方案，特别是针对生态易受 扰的作业施工场区，开展水土保持、生物多样性保 护、植被保护等工作，做到生态环境与工程建设同步 规划，同步实施。施工过程中增加生态保护的投入， 使用环保设备、改进施工工艺和优化施工方案，减少 对水、大气、植被和生物的影响。全年未发生生态环 境事件。
+公司积极参与国家重点环境保护实用技术和示范工程 的评审、推广工作，山区道路建设耕地生态保护技 术、山区瞇道施工弃渣“三化”处理技术、高速铁路 轨板厂生产污水回用技术等获得国家重点环境保护实 用技术。
+资料1： 2016年，中铁五局同时承担了仰韶文化所在地 蒙华铁路、有大量战国遗迹的济青铁路、位于八达岭 长城下的京张高铁八达岭站等重点项目的施工任务， 他们在施工中提前做好预案，积极与文物管理部门对 接，始终做到文物保护与施工并重，通过改进施工工 艺等方法，成功对文物古迹进行了保护。
+资料2 ：中铁咨询坚持从设计源头上贯彻环保理念， 建设绿色铁路，在铁路选线、选址方案比选中，将沿 线的自然保护区、风景名胜区、水源保护区、文物保 护单位等生态敏感区作为重要的比选要素，最大限度 地绕避。在高速铁路设计中，对路基边坡最大限度地 予以植物防护，在铁路站房设计中，运用节能环保概 念和新技术、新材料，控制渗透风，优化天然采光设 计，应用地源热泵技术和太阳能光伏发电系统，努力 使车站成为国家级绿色工程。
+资料3 ：中铁国际生态城项目共投入近3.4亿元对区域 内石漠化山地进行了科学整治，已完成人工林草和植 被种植超1万平方米，累计植树种苗755万株，恢复植 被面积超过6900亩，区域内80%的石漠化土地得到了 有效治理。
+39
+40
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+中铁国际生态城
+Protection of Ecological Environment
+CREC has always committed to the ecological environment protection. Before the project starting, CREC always organized professional personnel to evaluate the ecological environmental protection situations carefully, made practical and effective protection program, especially focusing on construction site whose ecology is liable to be disturbed, it carried out works such as conservation of water and soil, biodiversity protection, vegetation protection etc. It planed and implemented the ecological environment management with the project construction synchronously. In the construction process, CREC increased the investment in ecological protection, applied environmental protection equipment, improved ecological construction process and optimized construction program, thus reducing the impact on water, air, vegetation and organism. No ecological destruction event occurred throughout the year.
+The company actively took part in the evaluation and promotion of national key practical technologies and demonstration projects of environmental protection, of which, such technologies as ecological protection technology for mountain road construction land, "3R" treatment technology for abandoned residue of tunnel construction in mountain area, and production wastewater recovery technology in high-speed rail board factory were rated as national key practical technologies for environmental protection.
+Information 1: In 2016, CREC No.5 undertook construction tasks of major projects including Menghua Railway where Yangshao culture is located, Jinan-Qingdao Railway where a large number of Warring States relics are located, Badaling station of Beijing-Zhangjiakou highspeed rail located in Badaling Great Wall. They made pre-arranged planning in advance in the construction, actively cooperated with the cultural relics management departments, and always carried out both cultural relics protection and construction. By improving the construction process and other methods, it success^lly protected the cultural relics.
+Information 2: China Railway Consulting adheres to implementing environmental protection concept from design source to construct green railways. In railway line selection and site selection program, it takes natural reserves, scenic spots, water conservation areas, cultural relics protection units and other ecological sensitive areas as important factors for comparison, and tries to avoid these areas to the greatest extent. In high-speed rail design, it maximized plants protection to the subgrade slope. In railway station design, it applied energy conservation and environmental protection concept and new technologies, new materials to control the infiltration air. Moreover, it optimized the natural lighting design, applied ground source heat pump technology and solar photovoltaic power generation system, and made great efforts to make the station become a national green project.
+Information 3: In China Railway International Eco-City project, the company invested a total of nearly RMB 340 million Yuan in scientific renovation to the rocky desertification area within the region. Up to now, it has completed artificial forest grass and vegetation planting of over 10,000 square meters, with 7.55 million planting seedlings accumulatively. It has restored vegetation area of more than 6900 mu, and 80% of the rocky desertification land within the region has been effectively managed.
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+
+抢险救灾
+Disaster Relief
+
+扶贫助困
+Assistance for the Poor
+
+社区服务
+Community Service
+
+42
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+抢险救灾
+Disaster Relief
+多年来，中国中铁在一系列重大自然灾害面前挺身而 出，勇挑重担，积极投身抢险救灾；积极践行央企责 任，受到各级政府和社会各界好评。
+2016年，全公司积极参与各地各类抢险救灾300多次， 投入抢险救灾人员2万多人次、设备3200多台套、投入 资金近5000万兀。中国中铁在昆明、贵阳、西女建立 了三支国家隧道专业应急救援队，先后参与应急救援 响应23次，其中包括2次抗震救灾，成功救出被困人员 57人。
+资料1: 2016年，全国多个地区出现严重洪涝灾害。中 国中铁党委向全公司发出号召，充分发挥建筑龙头企 业在组织、人员、机械、技术等方面的优势，积极参 加各地抗洪抢险。全公司30多家单位迅速调集10000多 名专业人员，以及大批机械设备、抢险物资，组成多 支抗洪抢险突击队，全力参与各地灾区的江堤防护、 溃口封堵、城市排涝、公路抢险、铁路抢修以及人员 转移、物资抢运等抢险救援。
+资料2: 2016年7月25日，京哈铁路路基边坡受暴雨冲 刷发生坍塌、滑坡，中铁九局迅速组织247人、机械设 备28台和大批抢险物资，累计93小时完成线路抢修任 务，确保了京哈线的行车安全。
+For many years, CREC has come out boldly and dared to challenge when facing series of serious natural disasters, and it actively took part in the rescue works; it actively fulfilled the responsibility of central enterprise, and has been highly praised by both the government and public.
+In 2016, the whole company actively took part in various rescue and relief works in all places for nearly 300 times, with nearly 20,000 person-time of rescue and relief personnel, more than 3200 sets of equipment and nearly RMB 50 million Yuan of investment. CREC established three national tunnel professional emergency rescue teams in Kunming, Guiyang, and Xi'an, and has participated in emergency rescue response for 23 times, including twice earthquake reliefs, and has success^lly rescued 57 trapped persons.
+Information 1: In 2016, there were severe flood disasters in many areas around China. CREC Party Committee issued a call to the whole company, and gave full play to the advantages of a leading construction enterprise in organization, personnel, machinery and technology, and actively participated in flood-fighting and emergency rescues. The whole company quickly mobilized more than 10,000 professionals from more than 30 units and a large number of mechanical equipment, emergency supplies, and set up many flood fighting and rescue commandos to participate in river embankment protection, dam breach blocking, urban drainage, urgent highway and railway repair and personnel evacuation, material rush transport and other rescues in all disaster areas.
+Information 2: On July 25, 2016, Beijing-Harbin railway subgrade slope occurred collapse and landslides due to the heavy rain. CREC No.9 rapidly organized 247 persons, machinery and equipment, 28 tool vehicles and a large number of emergency supplies to complete urgent line repair tasks in 93 hours to ensure the driving safety of Beijing-Harbin railway line.
+抗洪抢险
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+中锐言托与叙永县签订金融扶贫协议
+扶贫助困
+根据国务院扶贫办等有关部委的安排，中铁工自2002 年开始参与定点扶贫工作，十多年来，不忘初心，牢 记使命，始终从当地老百姓的实际需要出发开展定点 帮扶工作。中国中铁自上市以来积极参与中铁工牵头 的精准扶贫项目。中铁工以干部扶贫、教肓扶贫为主 要抓手，先后派出挂职干部34人到定点帮扶的湖南省 汝城县、桂东县，山西省保德县挂职副县长，以改善 定点扶贫县基础教肓设施、帮助贫困家庭学生上学为 重点，集中对定点扶贫县13所中小学的教学楼、体肓 场、宿舍、食堂等进行修缮及改扩建。
+Assistance for the Poor
+According to the State Council Poverty Alleviation Office and other relevant ministries, CREC began to participate in poverty alleviation work since 2002, more than and 10 years, don't forget the heart, remember our mission, always from the actual needs of the local people to carry out targeted assistance work. Since entering the capital market，CREC focus on poverty alleviation and poverty alleviation, has sent 34 people to the designated helping cadres Guidong County in Hunan Province, Rucheng County, deputy magistrate of Baode County of Shanxi Province attachment, to improve the poverty alleviation County of basic education facilities, school to help students from poor families, focus on poverty alleviation in 13 schools the teaching building, dormitory, canteen, stadium renovation and expansion.
+43
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+社区服务
+中国中铁长期以来坚持地企文明、和谐共建的工作思 路，广泛开展拥军优属，支持军警建设，志愿服务敬 老院、医院、街道、社区、学校等地方单位，以实际 行动履行企业公民责任。
+2016年，全公司共组建了 900多支志愿服务队，投入 志愿服务2.1万多人次，开展各类志愿服务活动1800多 次，大力弘扬社会道德风尚，积极构建和谐社会。中 铁四局“小候鸟”欢乐行项目和“筑路者”志愿服务 项目分别获得第三届中国青年志愿服务项目大赛关爱 农民工子女类金奖和银奖。
+2016年，全公司捐资助学1000多万元，帮扶学生近 8600人，支持教肓机构资金3000余万元；其他公益慈 善事业投入超过8000万元。
+资料1: 2016年G20峰会期间，中铁二局组织9名青年 员工组成“小先锋”志愿队，在杭州市文泽路开展了 11天的志愿服务活动。他们分4个班次，全天候24小时 不间断巡查，负责文泽路安全环卫工作，并确保文泽 路车站的安全运营。
+资料2:中铁十局蒙华铁路项目部坚持企地共建，为 项目所在的延安市安塞梁村乡修建水塔，解决当地人 吃水难问题，为孟塌村新修硬化道路，解决当地人出 行难问题，并组织开展“情暖老区人民”主题捐款活 动，共筹集善款20余万元，全部用于改善当地困难群 众生活。
+资料3:中铁文化旅游投资集团在中铁国际生态城项目 开发过程中，积极帮助当地居民解决就业问题，并配 合地方政府广泛开展失地农民就业培训和创业扶持工 作。截至目前，提供了 1.5万余个工作岗位，帮助当地 居民人均年收入项目启动前翻了 10咅。
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+开展”心连心、手拉手“青年志愿者活动
+Community Service
+CREC always insisted on the work ideas of local corporate civilization and harmonious construction, widely supported the army and gave preferential treatment to the families of the armyman and martyrs, supported military police construction, offered volunteer serv'ces to gerocomium, hospital, street office, community, school and other local institutions, implementing its corporate citizenship responsibility by its actual deeds.
+In 2016, the whole company totally set up more than 900 volunteer service teams which offered volunteer services for 21,000 person-times, and carried out various volunteer service activities for over 1800 times. It vigorously carried forward the social morality, and actively built a harmonious society. CREC No.4 "small migratory bird" happy tour program and "road builder" volunteer service program won gold and silver awards in the 3rd Chinese youth volunteer service program competition in care for peasant workers' children.
+In 2016, the whole company donated the fund of more than RMB 10 million Yuan for education, helped nearly 8600 students, and supported educational institutions with more than RMB 30 million Yuan; it invested over RMB 80 million Yuan to other public welfare undertakings.
+In formation 1: In 2016 G20 Summit period, CREC No.2 organized 9 young employees to form a "small pioneer" volunteer team, and carried out 11 days of volunteer service activities in Wenze Road of Hangzhou. They performed all-weather 24-hour uninterrupted patrol in four shifts, and took charge of Wenze Road safety and sanitation work to ensure the safe operation of Wenze Road Station.
+Information 2: Menghua Railway project department of CREC No.10 insisted on enterprise and local resident co-building. They build water towers for Ansailiang Village of Yan'an City to solve the "drinking water problem" for the local people, and they built hardening roads for Mengta Village to solve the "travel problem" for the local people. In addition, they organized donation activity with the theme as "Delivering warm to the people in old revolutionary base areas" and raised the donation of more than RMB 200,000 Yuan which were all used for improvement of local people's life in difficulty.
+Information 3: In the development of China Railway International EcoCity project, China Railway Culture and Tourism Investment Group actively helped the local people solve the employment problem, and cooperated with the local government to extensively carried out land-lost farmers employment training and self-employment encouragement works. Up to now, it has offered more than 15,000 jobs to help local people's per capita annual income be 10 times as high as that before the project launch.
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+
+加强战略合作
+Strengthening Strategic Cooperation
+
+推进产业合作
+Promotion of Industrial Cooperation
+
+实施项目合作
+Construction Project Cooperation
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+
+H ife ft人hi政府屮丨si屮泱收份心限公，q 战略介作to议铁卞议A
+与河南省签署战略合作协议
+与杭州市、光大证券开展战略合作
+加强战略合作	Strengthening Strategic
+Cooperation
+中国中铁十分重视与国内外各类组织和大型企业的战 略合作。公司与各级政府、高校、社会组织、金融机 构、相关企业在人才培养、资金管理、施工生产、材 料供应、文化构建、科技创新、战略发展等方面，建 立了广泛的战略联盟和密切的合作关系，促进了多方 优势互补，实现了资源共享与协同发展。
+2016年，公司充分利用在资金、技术、管理及人才 等候方面的优势，与浙江省、河南省、陕西省、青海 省、杭州市、武汉市、长春市、责阳市、宜昌市、绵 阳市、鄂尔多斯市、绍兴市、包头市、菏泽市、宝鸡 市、河源市、南阳市、湖南湘江新区等地方政府广泛 开展战略合作。
+CREC attached great attention to the strategic cooperation with domestic and abroad organizations and large-scale corporates. The company has set up a broad strategic alliance and close cooperative relationship in talent cultivation, funds management, construction and production, material supply, culture construction, scientific innovation and strategic development, promoting allround complementary advantages to achieve resource sharing and collaborative development.
+In 2016, the company made full use of advantages in funds, technology, management and personnel, and carried out a wide range of strategic cooperation with local governments in Zhejiang Province, Henan Province, Shaanxi Province, Qinghai Province, Hangzhou, Wuhan, Changchun, Guiyang, Yichang, Mianyang, Ordos, Shaoxing, Baotou, Heze, Baoji, Heyuan, Nanyang, Hunan Xiangjiang River New District, etc.
+47
+48
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+推进产业合作
+Promotion of Industrial Cooperation
+2016年，公司积极推进在高速铁路、基础设施建设、 金融服务、建筑材料等领域的产业合作。在高速铁路 建设领域，公司与北京交通大学、华东交通大学等高 校开展人才培养和技术共享战略合作；同时与中国电 子等产业链相关企业建立战略合作关系，共同推进中 国高铁发展。在基建领域，与福州地铁、山东高速集 团、唐山京唐铁路公司等大型企业开展战略合作，积 极参与国内基础设施投资建设。在金融服务领域，与 金砖国家新开发银行、中国政企合作投资基金、光大 证券等金融机构积极开展合作，创新投融资模式，建 立完整的业务链条。在供应商合作方面，与各类供应 商在产品研发、技术创新、产品优化、资源整合、信 息共享等方面开展多方位深层次合作，实现了和谐共 赢，价值共享。全年共计与129家供应商签订战略采 购框架协议，为工程质量提供了有力的保障。同时， 我们也不断加强供应链管理，以保持供应链的招标公 平为基本要求，持续监察他们在诚信、产品质量、安 全、环保等方面的表现。
+资料1： 2016年，中国中铁与光大证券深化合作，各自 发挥在城市建设和金融服务方面的优势，联合向杭州 市、绍兴市、菏泽市等多地提供城市建设综合方案， 涉及城市重大基础设施、地铁、市政、现代交通网络 和水利环保等多个领域。
+资料2： 2016年，公司累计在1059个项目实现石化产品 集采专供，累计供应石化产品47万吨，保证了产品质 量，降低了采购成本。同时，提高了工程机械用油的 品质，最大限度地减少了环境污染。
+资料3： 2016年，公司通过与京东开展办公用品采购战 略合作，完成办公用品在线采购订单12118个，成交金 额2364万元。
+In 2016, the company actively pushed forward industrial cooperation in highspeed rail, infrastructure construction, financial service and building materials. In the field of high-speed rail construction, the company carried out strategic cooperation in talent cultivation and technology sharing with Beijing Jiaotong University, East China Jiaotong University and other colleges and universities; in addition, it established strategic cooperation relationship with Chinese electronics and other industrial chain-related enterprises to jointly promote China's highspeed rail development. In infrastructure construction filed, the company carried out strategic cooperation with large-scale corporates such as Fuzhou Metro, Shandong Hi-speed Group and Tangshan Jingtang Railway Company to actively take part in domestic infrastructure investment and construction. In financial service field, the company actively carried out cooperation with BRICS New Development Bank, China Government and Enterprise Cooperation Investment Funds and Everbright Securities to innovate investment and financing mode and set up complete business chains. In the cooperation with suppliers, it carried out multi-aspect deep-level cooperation with a variety of suppliers in product development, technological innovation, product optimization, resource integration, information sharing and other aspects to achieve a harmonious win-win situation and value sharing. In 2016, it signed strategic procurement framework agreements with a total of 129 suppliers to provide a strong guarantee for project quality. At the same time, we also continue to strengthen the supply chain management, in order to maintain the fair supply chain as the basic requirements, and constantly monitor their integrity, product quality, safety, environmental protection and other aspects of performance.
+Information 1: In 2016, CREC deepened cooperation with Everbright Securities. They played their advantages in urban construction and financial services, and jointly provided comprehensive urban construction solutions to Hangzhou, Shaoxing, Heze and other cities, involving major urban infrastructure, subway, municipal facilities, modern transportation network and water conservancy and environmental protection, etc.
+Information 2: In 2016, the company achieved centralized material procurement and supply for petrochemical products in 1059 projects accumulatively, and supplied petrochemical products of 470,000 tons to ensure product quality and reduce procurement cost. At the same time, it improved the quality of engineering machinery oil to minimize the environmental pollution.
+Information 3: In 2016, through strategic cooperation with JD.com on office supplies, the company completed 12118 on-line centralized procurement orders for office supplies with the volume of transactions of RMB 23.64 million Yuan.
+与供应商开展战略合作
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+49
+实施项目合作	Construction Project Cooperation
+2016年，中国中铁与国内外多家企业实施项目合 作，特别是在ppp模式上取得了重大突破。公司分别 与多家第三方公司联合中标了广州市中心城区地下 综合管廊、陕西省绥德至延川高速公路等多个ppp 项目。在落实“一带一路”和“中国高铁走出去” 等国家战略过程中，与相关企业合作推进了匈塞铁 路、马来西亚金马士-新山双线电气化铁路、印尼雅 万高铁等多个海外重点项目。
+资料1： 2016年10月5日，由中国中铁等多家企业合 作建设的非洲首条电气化铁路亚吉铁路正式通车。 亚吉铁路是从投融资到运营的全产业链跨国电气 化铁路项目，是中国海外第一个集投融资、设计、 施工、主要装备材料、监理、机车、运营为一体的 全产业链、全流程“中国化”的跨国电气化铁路项 目，全部使用中国标准，对中国铁路标准“走出 去”有着重要的示范意义。
+资料2： 2016年11月5日，在中国一中东欧领导人峰 会上，由中国中铁等中匈方企业联合组建的中匈铁 路非盈利有限公司与匈牙利国家铁路公司签署了匈 塞铁路匈牙利段建设合同。这标志着中匈塞三国合 作建设的匈塞铁路项目进入实施阶段，中国铁路成 套技术和装备将首次进入欧洲市场。
+In 2016, CREC conducted project cooperation with many domestic and abroad corporates, especially it achieved important breakthrough in ppp mode. The company won the biddings for Guangzhou City center underground integrated corridor, Shaanxi Suide-Yanchuan Expressway and other ppp projects jointly with a number of third party companies. During the implementation of national strategies including "One-Belt-One-Road" and "China high-speed rail going out", it cooperated with related enterprises to boost Hungary-Serbia railway, Malaysia Gemas-Johor Bahru dual-line electrified railway, Indonesia Jakarta-Bandung high-speed rail and other overseas major projects.
+Information 1: On October 5, 2016, the first African electrified railway, Addis Ababa-Djibouti Railway which was constructed by CREC and many enterprises, was officially put into operation. Addis Ababa-Djibouti Railway is a whole industry chain cross-border electrified railway project from investment and financing to operation. It is the first overseas cross-border electrified railway project of whole industry chain and whole-process Chinese style integrating investment and financing, design and construction, major equipment materials, supervision, locomotive and operation. This project adopts all Chinese standards, having an important demonstration significance for Chinese railway standards to go out.
+Information 2: On November 5, 2016, at the China-Central and Eastern European Leaders' Summit, the Sino-Hungarian Railway NonProfit Co., Ltd., jointly established by CREC and other Chinese and Hungarian enterprises, signed a construction contract with Hungarian National Railway Company on the construction of Hungarian section of Hungary-Serbia Railway. This marked the Hungary-Serbia Railway project cooperated by China, Hungary and Serbia was into the implementation stage, and China's railway technology and equipment will enter European market for the first time.
+中国中铁股份有限公司	SOCIAL
+2〇16 社会责任报告	RESPONSIBILITY REPORT IN 2016
+
+全球发展
+Global Development
+
+全球服务
+Global Service
+全球公益
+Global Public Welfare
+埃塞俄比亚118公里道路项目
+全球发展
+多年来，中国中铁始终坚持“走出去”战略，积极参 与全球基础设施建设。目前，公司国际业务已涉足对 外工程承包、设计咨询、机械制造、境外投资、资源 开发、劳务输出和国际贸易等，海外工程项目覆盖铁 路、公路、桥梁、P遂道、房屋建筑、城市轨道、市政 工程等领域。
+2016年，中国中铁实现海外营业收入275.6亿元。
+截至2016年底，中国中铁在境外83国家设有境外机构 开展业务，正在实施的境外承包工程、设计和工业产 品加工项目463个。在海外市场经营过程中，通过实 行区域化经营战略，培肓了一批具有鲜明特色区域市 场。如以马里、加纳为代表的西非市场，以埃塞俄比 亚、坦桑尼亚为代表的东非市场，以安哥拉为代表的 南非市场，以马来西亚、越南为代表的东南亚市场， 以巴新、斐济为代表的南太平洋市场，以塔吉克斯 坦、乌兹别克斯坦为代表的中亚市场。
+公司充分利用制造优势，配合铁路“走出去”项目实 施，带动全产业链工业设备、产品出口。研发制造的 各类铁路道岔出口已覆盖北美、东南亚、中东、非洲 等30多个国家和地区；出口的钢结构桥梁累计达20万 吨。公司制造的盾构设备已经出口到马来西亚、以色 列等国家。公司拥有自主知识产权的高速铁路接触网 专用部件和输配电设备也已出口到意大利、德国、香 港、印度、阿联酋等国家和地区。
+SOCIAL	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+孟加拉卡纳夫里三桥
+Global Development
+Over the years, CREC has always adhered to the "going out" strategy, and actively participated in global infrastructure construction. At present, the company's international business has been involved in foreign engineering contracting, design consulting, machinery manufacturing, overseas investment, resource development, labor export and international trade business, and overseas projects cover railways, highways, bridges, tunnels, housing construction, urban rail, municipal engineering and other fields.
+In 2016, CREC achieved overseas business income of RMB 27.56 billion Yuan.
+As of the end of 2016, CREC has set up overseas institutions in 83 countries to carry out business, and it has 463 overseas construction projects. In the overseas market operation process, through the implementation of regional management strategy, it has cultivated a number of regional markets with distinctive characteristics, such as the West African market represented by Mali and Ghana, the East African market represented by Ethiopia and Tanzania, the South African market represented by Angola, the Southeast Asian market represented by Malaysia and Vietnam, the South Pacific market represented by Papua New Guinea and Fiji, Central Asian market represented by Tajikistan, Uzbekistan.
+The company made full use of manufacturing advantages to coordinate the railway "going out" project implementation so as to drive the equipment and product export in the whole industry chain. The export of various types of railway turnout junctions researched and manufactured by the company has covered more than 30 countries and regions including North America, Southeast Asia, the Middle East, and Africa; the accumulated export of steel bridges reached 200,000 tons. The shield equipment manufactured by the company has been exported to Malaysia, Israel and other countries. The special parts and transmission and distribution equipment of high-speed rail overhead line system that the company owned independent intellectual property rights have also been exported to Italy, Germany, Hong Kong, India, the United Arab Emirates and other countries and regions.
+51
+52
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+国产盾构敲开欧洲市场大门
+乌兹别克斯坦安琶铁路隧道
+全球服务
+公司充分发挥全产业链优势，采用设计、采购、施 工加融资的EPC+F模式，为业主提供从投资、勘察设 计、施工建设到运营维护全周期的服务，积极推动中 国铁路技术标准、设备和运营“走出去”。在设计方 面，公司通过了解业主需求、开展规划设计，主动开 展前期工作，推动项目落地，先后中标和承接俄罗斯 莫喀高铁勘察设计任务、南美“两洋铁路”可行性研 究任务，参与的海外工程设计项目占中国企业的80% 以上。在装备采购方面，除以盾构、道岔为代表的装 备产品出口外，积极依托中国高铁“走出去”项目， 进一步拉动国内机械装备、机车车辆、物资设备乃至 服务培训的出口。在施工技术方面，采用中国标准的 孟加拉国帕德玛大桥项目中标金额约15.5亿美元，是 中国企业承建的最大海外桥梁工程，建设难度和技术 水平达到世界之最；承建的乌兹别克斯坦安琶铁路瞇 道项目仅用时900天完成总长47.3公里的开挖，创造了 海外瞇道施工新纪录。在运营维护方面，以埃塞俄比 亚亚吉铁路、亚的斯亚贝巴轻轨为代表的项目已按照 中国技术标准建成，并由我公司联合其他中国企业负 责运营。
+Global Service
+The company gave a full play to its advantages of the whole industry chain and adopted EPC+F mode of design, procurement, construction and financing to provide the owners with all-round services from investment, survey and design, construction to operation and maintenance, and actively promoted China's railway technical standards, equipment and operation "going out". In terms of design, the company understood the needs of owners, carried out planning and design, initiatively conducted preliminary work to promote project construction. The company has won the bidding to undertake the survey and design tasks of Russian Moscow-Kazan high-speed rail and feasibility study task of South America "Pacific-Atlantic Railway", and the overseas engineering design projects it participated in accounted for more than 80% of Chinese enterprises. In terms of equipment procurement, in addition to the export of equipment products represented by shield equipment and turnout junction, it actively relied on China's high-speed rail "going out" projects, and further stimulated the export of domestic machinery and equipment, locomotives and rolling stock, materials and equipment and even service training. In the construction technology, the company won the bidding of about USD 1.55 billion for Bangladesh Padma Bridge project which adopts Chinese standards. It is the largest overseas bridge project constructed by Chinese enterprises, whose construction difficulty and technical level reached the top of the world. For the construction of Uzbekistan Angren-Pop railway tunnel project, it took only 900 days to complete the excavation of 47.3 km in total length, creating a new record of overseas tunnel construction. In operation and maintenance, the projects represented by Ethiopia Addis Ababa-Djibouti Railway and Addis Ababa Light Rail were constructed in accordance with Chinese technical standards, whose operation management will be undertaken by CREC and other Chinese enterprises.
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+全球公益
+中国中铁坚持“奉献精品工程，造福东道国家”理 念，2016年完成了坦桑尼亚基甘博尼大桥、乌兹别克 斯坦安琶铁路瞇道、埃塞俄比亚亚的斯亚贝巴至吉布 提铁路等海外重大民生工程，大大提高了当地交通运 输能力，改善了民众生活条件，促进了当地经济繁荣 和发展。
+公司积极参与工程所在国社区建设，鼓励员工志愿服 务当地社会，热心参与慈善、捐助等社会公益事业， 关心支持教肓、文化、卫生等公共福利事业。在发生 重大自然灾害和突发事件的情况下，积极提供财力、 物力和人力等方面的支持和援助。
+资料1: 2016年3月，安哥拉爆发大规模的黄热病疫 情。中铁四局安哥拉工地医院配合中国商务部、国家 质检总局和驻安大使馆，全力做好各项防疫和治疗工 作，累计治愈18名黄热病患者，完成9例疑似病例检 测，为529人接种了黄热病疫苗。11月16日，中铁四局 安哥拉医院正式成为国家质检总局在境外设置的第一 个传染病检疫检测工作站点。
+捐助刚果（金）当地学校
+资料2:中铁瞇道集团安琶铁路瞇道项目部，出资20万 元向瞇道工地近邻的纳曼干州三所学校捐建篮球场、 卫生间等设施，并捐赠大量课桌椅和教学用具，受到 乌兹别克斯坦政府和媒体的一致好评。
+资料3: 2016年，中铁资源华刚矿业继续在刚果（金） 矿山周边开展“和谐社区”建设，全年共投入近100万 美元进行公益项目建设。主要有卡巴达及莫索诺依村 道路修缮、卡巴达村增加饮水点和修缮水泵、科卢韦 齐市照明工程、高清卫星地图等公益项目工程。还专 门建立了刚方诊所并聘用当地专业医务人员，解决了 刚方员工和周边村民看病难的问题。
+53
+54
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+在斐济遭受台风灾害后向当地捐款
+Global Public Welfare
+CREC insisted on the idea of "offering high-quality project and benefiting host country", and completed overseas major livelihood projects in 2016 including Tanzania Jiganboni Bridge, Uzbekistan Angren-Pop railway tunnel, Ethiopia Addis Ababa-Djibouti railway, thus greatly enhancing the local transportation capability, improving the people's living conditions, and boosting the local economic prosperity and development.
+The company actively participated in community construction in the country where the project is located. It encouraged the staff to volunteer to serve the local society, enthusiastically participated in charity, donation and other social welfare undertakings, and concerned and supported education, culture, health and other public welfare undertakings. In the event of major natural disasters and emergencies, the company actively provided financial, material and human support and assistance.
+Information 1: In March 2016, large-scale yellow fever outbreak occurred in Angola. CREC No.4 Angola construction site hospital cooperated with Chinese Ministry of Commerce, AQSIQ (General Administration of Quality Supervision, Inspection and Quarantine) and Embassy in Angola to do all the epidemic prevention and treatment works. They cumulatively cured 18 patients with yellow fever, completed 9 suspected cases detection, and inoculated yellow fever vaccine for 529 people. On November 16,CREC No.4 Angola Hospital officially became the first overseas infectious disease quarantine inspection work site set up by AQSIQ.
+Information 2: CRTG Angren-Pop Railway Tunnel Project Department invested RMB 200,000 Yuan to donate basketball courts, bathrooms and other facilities to three schools in Namangan Province near the tunnel construction site, and donated a large number of desks and chairs as well as teaching equipment, and received consistent praise by Uzbekistan government and the media.
+Information 3: In 2016, Sino-Congo Mines Company of China Railway Resources Group continued to carry out the construction of "harmonious community" around the Congo (Kinshasa) mine, with a total investment of nearly USD 1 million for the construction of public welfere projects in the whole year, which mainly included repairing the roads of Kabada and Moosonuo villages, adding drinking water points in Kabada village and repairing water pumps, Kolwezi lighting project, high-resolution satellite map and other public welfare projects. In addition, the company specifically set up a Congo clinic and hired local professional medical staff, thus solving the problem of seeing a doctor for Congo staff and the surrounding villagers.
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+开放的中国中铁
+Open CREC
+规范的信息披露
+Normative Information Disclosure
+2016年，公司积极研究中国资本市场改革新变化，不断 适应上海和香港两地证券监管对信息披露工作的新要求， 积极执行分行业监管和“直通车”业务要求，持续加大重 大事项内部报告力度，严格履行信息披露义务。全年公 司共计发布公告及通函303项，公告文件数量创上市以来 新髙，其中，A股公告及披露文件125项，H股公告及通函 178项（中英文），内容涵盖会议决议、定期报告、关联 交易、债券付息、债券融资、战略合作协议签署、境内外 重大工程中标等公司发生的应予披露的重大事项；同时公 司结合市场和监管机构关注重点主动加强自愿性信息披露 力度，尤其是加大了公司重大工程中标信息和围绕“一带 一路”业务以及PPP模式业务开展信息的收集和披露。全 年信息披露没有发生虚假记载、误导性陈述或重大遗漏的 情形，公司2015年度信息披露工作被上海证券交易所评价 为A,即信息披露优秀类。公司公告及通函均按照规定披 露于上海证券交易所、香港联合交易所网站和指定报刊； 同时，为了便于广大投资者查阅，信息披露文件也均发布 于公司中英文网站上，确保了公司股东及广大投资者能够 及时、平等、便捷地获得公司信息。
+In 2016, the company actively studied new changes of China capital market reform, and constantly adapted to the new requirement for information disclosure supervision model of Shanghai and Hong Kong. It actively implemented industry-classified supervision and "through train" business requirement continuously intensified efforts on internal major events report and strictly performed the obligation of information disclosure. In 2015, the company released 303 notices and circulars which reached a new high in quantity of notice document including 125 A-Share notices and 178 H-Share notices and circulars (in Chinese and English), with the contents covering conference resolutions, regular reports, related transaction, payment of interest of bonds, equity financing, signing of strategic cooperation agreement domestic and abroad major project bidding and other major issues that should be disclosed; in the meantime, focusing on the concerns of market and supervision institutions, the company initiatively enhanced voluntary information disclosure force, especially intensified information collection and disclosure of bidding winning information for major projects and information on "One-Belt and One-Road" business and PPP mode business operations. There was no false record, misleading statement or big misstatement in the full year. Its information disclosure work in 2015 was rated as A by Shanghai Stock Exchange (SSE), i.e. excellent information disclosure. The company notices and circulars were released on websites of SSE and SEHK and their designated newspapers and periodicals according to relevant regulations. Moreover, in order to make it easier for investors to check the information, information disclosure documents were also released on Chinese and English websites of the company. As a result shareholders and investors can get information of the company in time and conveniently.
+56
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+投资者问答
+积极的投资者关系
+2016年，公司充分发挥投资者热线、IR邮箱、上证E 互动平台作用，利用召开业绩发布会、接待投资者来 访、年度股东大会、参加投资峰会等多种形式与广大 投资者进行沟通交流，增进公司股东和投资者对公司 的了解和认同，倾听股东和投资者意见和建议，荣获 金紫荆“最佳投资者关系管理上市公司”。报告期 内，公司举行了4场大型业绩发布会、2场大型业绩新 闻发布会，2场业绩推介电话会议、12场电话沟通会； 接听投资者热线电话约2312话次，收到并回复邮件 9023封；组织接待投资者来访31次，接待投资者261人 次；安排出席境内外知名投资论坛和投资策略会议13 场，组织路演会议67场，共会见基金经理、分析师756 人次。
+公司目前入选的指数有MSCI明晟中国A股指数的成份 股、中国A50指数、上证综合指数、新上证综指、上 证市值百强指数、上证全指、上证全指价值指数、上 证50指数、上证180指数、上证流通指数、上证国企
+100指数、上证基本面200指数、上证180基本面加权 指数、上证180低贝塔指数、上证180价值指数、上证 180相对价值指数、上证180公司治理指数、上证180基 建指数、上证央企50指数、上证社会责任指数、上证 非周期行业100指数、上证中游产业指数、上证市值百 强、中证一带一路、中证两岸三地、中证龙头、中证 国企、中证100指数、中证300价值、沪深300指数、 中华交易服务中国120指数、中华交易服务中国A80指 数、恒生内地及香港可持续发展企业指数、恒生中国 企业等权重指数、恒生中国企业精明指数、恒生综合 指数、恒生基础建设指数、恒生AH股精明指数、恒生 AH股溢价指数、恒生AH股指数系列、恒生神州50指 数、恒生50指数、恒生中国内地综合指数、恒生中国 (香港上市）100指数、恒生大中型股指数、恒生地产 建筑业指数、恒生中国企业指数、恒生港股通指数、 恒生可持续发展企业基准指数、恒生环球综合指数、 恒生增幅指数等众多只境内外市场权重指数系列。
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+57
+业绩推介会
+Active Investor Relationship
+In 2016, the company made full use of the platforms of investor hotline and IR e-mail and SSE E-interactive platform to communicate with investors and listen to opinions and suggestions of the stockholders and investors from many ways such as holding achievements report conference, receiving investors to visit the company, holding annual general meeting and attending investment summit. It was awarded Golden Bauhinia "Listed Company for Best Investor Relationship Management". In the report period, the company held 4 large-scale achievements report conferences, 2 large-scale performance press conferences, 2 achievements recommendation teleconferences, and 12 teleconferences; answered about 2312 hot-line calls, received and replied about 9023 e-mails; organized and received 31 delegations for visit, and received investors for 261 person-time; arranged and attended 13 domestic and abroad famous investment forums and investment strategy conferences, organized over 67 roadshow conferences and met over 756 fund managers and analyzers.
+The company was included constituent stocks of MSCI China A-Share Index, China A50 Index, Shanghai Composite Index, New Shanghai Composite Index, SSE Market Value Top 100 Index, Shanghai Composite Index, Value Index of Shanghai Composite Index, SSE 50 Index, SSE 180 Index, Shanghai Circulation Index, Shanghai 100 Index of State-owned Enterprises, Shanghai 200 Index Fundamentals,
+Shanghai 180 Fundamental Weighted Index, Shanghai 180 Low Beta Index, Shanghai 180 Value Index, Shanghai 180 Relative Value Index, Shanghai 180 Corporate Governance Index, Shanghai 180 Infrastructure Construction Index, SSE Central Enterprises 50 Index, SSE Social Responsibility index, Shanghai 100 Index for Aperiodic Industry, SSE Middle Industry Index, SSE Market Value Top 100 Index, CSI One Belt & One Road Index, CSI Cross-Straits Index, CSI Leading Index, CSI State-owned Enterprises Index, CSI 100 Index, CSI 300 Value Index, Shanghai-Shenzhen 300 Index, CES China 120 Index, CES China A80 Index, Hang Seng Mainland and Hongkong Corporate Sustainability Index, Hang Seng China Enterprise Equally Weighted Index, Hang Seng China Enterprise Smart Index, Hang Seng Composite Index, Hang Seng Infrastructure Construction Index, Hang Seng AH Share Smart Index, Hang Seng AH Premium Index, Hang Seng AH Index Series, Hang Seng China 50 Index, Hang Seng 50 Index, Hang Seng Mainland Composite Index, Hang Seng China (Hong Kong) 100 Index, Hang Seng Largecap and Midcap Index, Hang Seng Property Construction Index, Hang Seng China Enterprises Index, Hang Seng Hong Kong Stocks Through Index, Hang Seng Corporate Sustainability Benchmark Index, Hang Seng Global Composite Index, Hang Seng and other weighted index series in domestic and foreign markets.
+58
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+媒体采访
+和谐的媒体关系
+多年来，中国中铁和各类社会媒体保持着良好的关 系，通过召开新闻发布会，邀请媒体出席企业重要会 议，组织报道重要工程，在媒体开辟专栏，举办座谈 会、培训班等多种形式加强与新闻媒体的沟通，促进 工作，发布信息，接受媒体监督。
+2016年，新华社、中央电视台、人民日报、光明日 报、经济日报、科技日报、中国证券报、上海证券 报、证券日报、证券时报、新华网、人民网及凤凰卫 视等媒体发布公司信息超过100000条。
+Harmonious Media Relations
+Over the years, CREC maintained good relations with various social media. Through holding press conferences, inviting media to attend important enterprise meetings, organizing and reporting opening and completion ceremonies of important project, opening up column in media and holding forum and training courses, the company enhanced the communication with the media, promoted work, released information and received media's supervision.
+In 2016, Xinhua News Agency, CCTV, People's Daily, Guangming Daily, Economic Daily, Science and Technology Journal, the China Securities, Shanghai Securities, Securities Daily, Securities Times, Xinhua Net, People's Net, Phoenix TV and other media have issued more than 100,000 pieces of information.
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+网站截图
+中国中铁官方微信
+中国中铁官方微博
+特色的企业传媒	Characteristic Corporate Media
+2016年，公司在持续加强企业报刊、网站、微博、微 信等媒体的日常管理运营的基础上，推出了中国中铁 新版官方网站。中国中铁官方微信荣获“最具影响力 央企新媒奖”、“最具影响力500强企业”新媒奖、腾 讯最具价值企业号奖等荣誉。
+2016年，公司积极参与中央电视台《大国工匠》、 《华人世界》、《数说命运共同体》、《远方的家•一 带一路》、《超级工程》、《中国高铁》等专题节目 制作，播出后反响热烈；推出了《最美合福》、《金 路印象-中国中铁优秀摄影作品集》、《文化强企》等 一系列文化作品。
+In 2016, the company continued to strengthen the daily management and operation of corporate newspapers, websites, microblog, WeChat and other media, on the basis of which, it launched CREC new official website. CREC official WeChat won "The Most Influential Central Enterprise News Media Award", "The Most Influential Top 500 Companies" News Media Award, Tencent Most Valuable Enterprise Award and other honors.
+In 2016, the company actively participated in the CCTV feature program production, and received overwhelming response after broadcast, including Great Craftsman in Big Country, Chinese World, Community of Common Destiny, Homeland Dreamland, China's Mega Project, China Railway High-speed Rail, etc.; it launched a series of cultural works such as "The Most Beautiful Happiness", "Golden Road Impression - CREC Excellent Photography Collection", "Thriving Enterprise By Culture".
+甲国中铁
+
+59
+公司报刊
+中国中铁股份有限公司	SOCIAL
+2016 社会责任报告	RESPONSIBILITY REPORT IN 2016
+社会评价
+Social Assessment
+2016年，公司位列《财富》世界500强企业第57位， 《工程新闻记录（ENR )》全球最大250家工程承包商 第2位、全球最大250家国际承包商第20位，世界品牌 500强第296位。并先后荣获中东欧地区最佳海外形象 企业奖、上市公司监事会最佳实践20强、天马奖一主 板最佳董事会、腾讯济安钻石奖、最佳董事会、综合 实力100强等多项殊荣。
+2016年，全公司有1家集体荣获全国五一劳动奖状，7 家集体荣获全国工人先锋号，20家集体荣获火车头奖 杯，13家集体荣获全国“安康杯”竞赛优胜集体，24 个班组荣获优胜班组；有1名同志被评为全国三八红旗 手，7名同志获得全国五一劳动奖章、161名同志获得 火车头奖章；中铁一局张婧家庭荣获全国“五好文明 家庭”，中铁六局袁振海、孙洪香家庭荣获“全国最 美家庭”、“全国文明家庭”称号。
+In 2016, the company ranked No.57 in "Fortune" Global 500 Companies, No.2 in "Engineering News Record (ENR)" 250 Global Largest Engineering Contractors, No.20 in 50 Global Largest International Engineering Contractors, No.296 in Top 500 World's Brands. In addition, it has won the best overseas image business award in Central and Eastern Europe, top 20 in the best practice of board of supervisors of listed companies, Tianma Award - the Best Board of Directors, Tencent Ji'an Diamond Award, the Best Board of Directors, Top 100 Overall Performance and many other awards.
+In 2016, one collective of CREC won the National May 1 Labor Certificate of Merit, 7 collectives won the title of National Workers Pioneer, 20 collectives were awarded "Locomotive Cup', 13 collectives were awarded National "Ankang Cup" Contest Winning Collectives, and 24 teams were awarded the winning teams; one person was honored as National March 8th Red-Banner Holder, 7 persons were awarded National "May 1" Labor Medal, 161 persons were awarded Locomotive Medal; Zhang Jing's family from CREC No.1 won the title of National "Five-Virtue and Civilized Family", Yuan Zhenhai's family and Sun Hongxiang's family from CREC No.6 won the titles of "National Most Beautiful Family" and "National Civilized Family', respectively.
+SOCIAL	I	中国中铁股份有限公司
+RESPONSIBILITY REPORT IN 2016	|	2016 社会责任报告
+2016年度十佳优秀社会责任实践
+Top Ten Outstanding Social Responsibility Practices in 2016
+社会责任实践名称	实施单位
+建设可持续有复原力的基础设施	中国中铁
+扶贫助困	中国中铁
+全国各地洪涝灾害抢险救援	中国中铁所属各单位
+安全质量隐患排查信息化管理	中铁四局
+安哥拉抗击黄热病疫情	中铁四局
+国家重点文物在施工现场的保护	中铁五局
+“情暖老区人民”企地共建活动	中铁十局
+农民工子女“爰心暑托班”	中铁建工
+刚果（金）“和谐社区”建设	中铁资源
+节能减排技术改造	中铁宝桥
+Name of Social Responsibility Practice	Implementation Unit
+Building a sustainable and resilient infrastructure	CREC
+Assistance for the Poor	CREC
+Flood disaster rescue throughout the country	CREC Subordinate Units
+Information management on safety and quality hazard investigation	CREC No.4
+Fighting against yellow fever epidemic in Angola	CREC No.4
+Protection of national key cultural relics in construction site	CREC No.5
+Enterprise and local resident co-building with the theme as "delivering warm to the people in old revolutionary base areas"	CREC No.10
+"Love Summer Vocation Class" for the children of peasant workers	CRCEG (China Railway Construction Engineering Group)
+Congo (Kinshasa) "harmonious community" construction	China Railway Resources Group Co., Ltd.
+Technical transformation for energy saving and emission reduction	CRBBG (China Railway Baoji Bridge Group Co., Ltd.)
+丑画丑sfssas樹sa^a1/loCIAL
+2016PI;卟Blmaa®RESPONSIroILITY REPORT IN 201 邙
+羅護—5m¥c7HfF,ffill'llp Msm
+ss. 瞄，酱_麗，ai盡馨—她,p S$J
+ff#ams,疆ss謹s, s±#ams,塑sam馨1,
+In 2017, CREC will take "seizing historical opportunity to promote sound and rapid development of enterprise- as the overall work spirit, closely center on "comprehensive strengthening of Party self—
+discipline, deepening of quality and efficiency improvement" to further deepen the enterprise reform, Improve the market management, promote sdentiffc management, highlighunnovation-driven development, andeffectively enhance thedevelopment quality andcompetitiveness' andwill strive to open up new prospects for sustained andhealthydevelopment.
+一n 2017, C刀EC will further play an exemplary role of the industry leading corporate to fulfill sodal responsibErties, comprehensivelydeepen the social responsibility management, expandthe sodal responsibility fields, enrkh the social responsibility contents,enhance social responsibility practices, cooperate with the interested parties to make unremitting ^ and progress of the whole society!
+I— '
+
+读者反馈
+感谢您在百忙之中阅读中国中铁股份有限公司2016年社会责任报告。
+报告在编写过程中难免存在瑕疵和疏漏之处，我们十分愿意倾听您的意见和建议, 再一次向您对本公司的支持和帮助表示衷心感谢。
+地址:	北京市海淀区复兴路69号中国中铁大厦		
+电话:	010-51878413	邮政编码：	100039
+传真:	010-51878417	电子邮箱：	ir@crec.cn
+网址:	www.crec.cn		
+Readers' Feedback
+Thanks for your reading the social responsibility report of 2016 China Railway Group Limited in your busy schedule.
+There are inevitable flaws and omissions in compiling preparation process of the report. We are very willing to listen to your comments and suggestions. We express our sincere thanks for your support and help to the company once again.
+Address: China Railway Group Limited Building, 69 Fuxing Road, Haidian District, Beijing. Telephone: 010-51878413 Postal code: 100039 Fax: 010-51878417	E-mail: ir@crec.cn
+Website: www.crec.cn
+版权所有，如需转载请与我们联系，否则将不被允许。
+All rights reserved. If you need transshipment, please contact us, otherwise it is not allowed.
+中国中铁官方微信	中国中铁官方微博
+股票代码：A股601390 H股0390 Stock code： 601390SH 0390HK
+
+本报告以环保纸张印制
+Thereport is printed by using environmental protection papers
