@@ -120,6 +120,7 @@ def clean_odd_symbol(text, keywords_dict):
     punc_pattern = r'[^a-zA-Z0-9\u4e00-\u9fa5 \.,!?\(\)。“、《》;:"\t]+'
     new = []
     for k,line in enumerate(text):
+        line = line.strip()
         line = re.sub(en_pattern, '', line) #去除英文
         line = multiple_replace(line, keywords_dict) #替换错别字
         line = line+'(table)' if len(re.findall(r'\d+\t', line))>1 else line #添加表格标记
