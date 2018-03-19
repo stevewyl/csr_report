@@ -111,9 +111,11 @@ add_eos = lambda x: re.sub('。', '。<EOS>', x)
 
 # 处理过长行
 def cut_long_line(text):
-    assert len(text) > 1
-    splited = [add_eos(line).split('<EOS>') if len(re.findall('。', line)) > 2 and len(line) > 50 else line for line in text]
-    return flatten(splited)
+    if len(text) > 1:
+        splited = [add_eos(line).split('<EOS>') if len(re.findall('。', line)) > 2 and len(line) > 50 else line for line in text]
+        return flatten(splited)
+    else:
+        return text
 
 # 清理奇怪的字符
 def clean_odd_symbol(text, keywords_dict):
