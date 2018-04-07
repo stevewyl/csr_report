@@ -14,6 +14,10 @@ csr报告文本清理脚本 Python 3.6
 4. 去除小标题行（是否有必要）(增加headline记号)
 5. 去除不相关的内容，如报告的开头和结尾(部分完成)
 '''
+'''
+bug:
+1. 修改代码后的结果报告没有生成内容，需要查看中间结果
+'''
 
 import sys
 import re
@@ -49,8 +53,11 @@ def get_files(dir):
 
 # 按行读入文件内容
 def read_line(file):
-    with open(file, 'r', encoding='utf8') as f:
-        return [line.strip() for line in f.readlines()]
+    try:
+        with open(file, 'r', encoding='utf8') as f:
+            return [line.strip() for line in f.readlines()]
+    except:
+        print(file)
 
 
 '''
@@ -122,9 +129,9 @@ def clean_odd_symbol(text, keywords_dict):
     punc_pattern = r'[^a-zA-Z0-9\u4e00-\u9fa5 \.,!?\(\)。“、《》;:"\t]+'
     new = []
     for k,line in enumerate(text):
-        line = line.strip()
         line = re.sub(en_pattern, '', line) #去除英文
         line = multiple_replace(line, keywords_dict) #替换错别字
+        line = re.sub('^ {4,}', '', line) #去除每一行开始多余的空格
         line = line+'(table)' if len(re.findall(r'\d+\t', line))>1 else line #添加表格标记
         line = re.sub(r'\.{3,}\d+|\t{2,}\d+|-{3,}\d+', '(catlog)', line) #替换为目录记号
         line = line+'(headline)' if re.search(r'^>', line) else line #替换为小标题记号
@@ -147,7 +154,9 @@ def clean_odd_symbol(text, keywords_dict):
                 new.append(line.replace('\t','').strip())
             else:
                 pass
-        elif re.search('报表|证券代码|年度社会责任报告|报告说明|目录', line):
+        elif re.search('\(([\u4e00-\u9fa5]+)\)$', line) or re.search(r'工时\)', line):
+            pass
+        elif re.search('报表|证券代码|年度社会责任报告|报告说明|目录|联系电话|联络电话|下载阅读', line):
             pass
         else:
             new.append(line.strip())
@@ -168,7 +177,7 @@ def check_invalid_blank_line(k, line, text):
 
 # 去除没有意义的开头内容
 def get_start(text):
-    idx = [k for k,v in enumerate(text) if re.search('致辞|尊敬的', v) and not check_catlog(v)]
+    idx = [k for k,v in enumerate(text) if re.search(r'致辞|尊敬的', v) and not check_catlog(v)]
     if idx != []:
         k = min(idx, key=lambda x:abs(x-len(text)*0.1))
         if k <= len(text)*0.15:
@@ -401,9 +410,7 @@ def get_size(obj, seen=None):
     return size               
 
 # 转化失败结果汇总
-def output_result_report(fname):
-    filelist1 = get_files(sys.argv[1])
-    filelist2 = get_files(sys.argv[2])
+def output_result_report(filelist1, filelist2, fname):
     origin, convert = [], []
     for file1,file2 in tqdm(zip(filelist1, filelist2)):
         if get_size(read_line(file1)) < 5000:
@@ -427,15 +434,16 @@ def output_result_report(fname):
             f.write('\n')
 
 if __name__ == '__main__':
-    filelist = get_files(sys.argv[1])
+    filelist = get_files(Path(__file__).parent / 'CSR_Texts' / sys.argv[1])
     keywords_dict = load_keywords('keywords.txt')
     for file in tqdm(filelist):
         content = read_line(file)
         content = clean_transform(content, keywords_dict)
-        output_path = Path(__file__).parent / sys.argv[2]
+        output_path = Path(__file__).parent / 'cleaned' / sys.argv[1]
         if not output_path.exists():
             output_path.mkdir()
         fname = output_path.joinpath(file.name)
         output_paragraph(content, fname)
+
     print('genearte final result report...')
-    output_result_report('result.txt')
+    output_result_report(filelist, get_files(output_path), '_'.join([sys.argv[1], 'result.txt']))

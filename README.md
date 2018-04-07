@@ -1,10 +1,12 @@
 # csr_report
-CSR报告清理脚本使用说明
+CSR报告清理脚本使用说明（20180225）
 
 运行环境：Python 3.6
-如何使用：打开命令行窗口，cd到脚本根目录，输入 python clean.py 输入目录名 输出目录名
 
-脚本说明：
+如何使用：打开命令行窗口，cd到脚本根目录，新建cleaned文件夹, 输入 python clean.py 输入年份
+
+## 脚本说明
+
 主要分为以下几个模块：
 1. 文件的批量读取
 2. 中文的转换（繁转简，全角转半角）
@@ -41,3 +43,13 @@ CSR报告清理脚本使用说明
 	a. 清理后的文本（保存在输出目录）
 	
 	b. 转化失败的文件名（保存在当前目录下的result.txt）
+
+## 20180407 增加分词模块
+
+需要安装HanLP的python接口 具体安装方法参考官方repo：https://github.com/hankcs/pyhanlp
+
+如何使用：打开命令行窗口，cd到脚本根目录，新建segmented文件夹, 输入 python segment.py 输入年份
+
+# TODO
+1. 情感值计算模型
+2. 清理分词模块的进一步整合和badcase修复
