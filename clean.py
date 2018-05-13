@@ -14,10 +14,6 @@ csr报告文本清理脚本 Python 3.6
 4. 去除小标题行（是否有必要）(增加headline记号)
 5. 去除不相关的内容，如报告的开头和结尾(部分完成)
 '''
-'''
-bug:
-1. 修改代码后的结果报告没有生成内容，需要查看中间结果
-'''
 
 import sys
 import re
@@ -27,6 +23,7 @@ from tqdm import tqdm
 from langconv import Converter
 import more_itertools as mit
 import itertools
+from utils import flatten, multiple_replace
 #from flashtext import KeywordProcessor
 
 # 一些正则表达式
@@ -91,15 +88,8 @@ def transform(text):
 '''
 # 加载替换字列表
 def load_keywords(fname):
-    tmp = [item.split('\t') for item in read_line(fname)]
+    tmp = [item.split(',') for item in read_line(fname)]
     return {item[0]:item[1] for item in tmp}
-
-# 替换句子中的多个不同的词
-def multiple_replace(text, idict):  
-    rx = re.compile('|'.join(map(re.escape, idict)))
-    def one_xlat(match):  
-        return idict[match.group(0)]  
-    return rx.sub(one_xlat, text)
 
 # 去除名词短语+冒号开头的行
 def check_colon(sent):
@@ -107,12 +97,6 @@ def check_colon(sent):
         return True
     else:
         return False
-
-# 摊平列表
-# ['1', '12', ['abc', 'df'], ['a']] ---> ['1','12','abc','df','a']
-def flatten(x):
-    tmp = [([i] if isinstance(i,str) else i) for i in x]
-    return list(itertools.chain(*tmp))
 
 add_eos = lambda x: re.sub('。', '。<EOS>', x)
 
@@ -154,7 +138,7 @@ def clean_odd_symbol(text, keywords_dict):
                 new.append(line.replace('\t','').strip())
             else:
                 pass
-        elif re.search('\(([\u4e00-\u9fa5]+)\)$', line) or re.search(r'工时\)', line):
+        elif re.search(r'\(([\u4e00-\u9fa5]+)\)$', line) or re.search(r'工时\)', line):
             pass
         elif re.search('报表|证券代码|年度社会责任报告|报告说明|目录|联系电话|联络电话|下载阅读', line):
             pass
@@ -412,11 +396,11 @@ def get_size(obj, seen=None):
 # 转化失败结果汇总
 def output_result_report(filelist1, filelist2, fname):
     origin, convert = [], []
-    for file1,file2 in tqdm(zip(filelist1, filelist2)):
+    for file1, file2 in zip(filelist1, filelist2):
         if get_size(read_line(file1)) < 5000:
-            origin.append(str(file1).split('\\')[1])
+            origin.append(str(file1).split('\\')[-1])
         if get_size(read_line(file2)) / get_size(read_line(file1)) < 0.3:
-            convert.append(str(file1).split('\\')[1])
+            convert.append(str(file1).split('\\')[-1])
     with open(fname, 'w', encoding='utf8') as f:
         f.write('一些失败的转化结果汇总：')
         f.write('\n')
@@ -434,16 +418,23 @@ def output_result_report(filelist1, filelist2, fname):
             f.write('\n')
 
 if __name__ == '__main__':
-    filelist = get_files(Path(__file__).parent / 'CSR_Texts' / sys.argv[1])
     keywords_dict = load_keywords('keywords.txt')
-    for file in tqdm(filelist):
-        content = read_line(file)
-        content = clean_transform(content, keywords_dict)
-        output_path = Path(__file__).parent / 'cleaned' / sys.argv[1]
+    if not Path('cleaned').is_dir():
+        Path('cleaned').mkdir()
+
+    for i in range(2002, 2017):
+        
+        input_files = get_files(Path(__file__).parent / 'CSR_Texts' / str(i))
+        output_path = Path(__file__).parent / 'cleaned' / str(i)
+        
         if not output_path.exists():
             output_path.mkdir()
-        fname = output_path.joinpath(file.name)
-        output_paragraph(content, fname)
-
-    print('genearte final result report...')
-    output_result_report(filelist, get_files(output_path), '_'.join([sys.argv[1], 'result.txt']))
+        print('reading files from folder', str(i))
+        for file in tqdm(input_files):
+            content = read_line(file)
+            content = clean_transform(content, keywords_dict)
+            fname = output_path.joinpath(file.name)
+            output_paragraph(content, fname)
+        
+        print('genearte preprocessing result report...')
+        output_result_report(input_files, get_files(output_path), '_'.join([str(i), 'result.txt']))
