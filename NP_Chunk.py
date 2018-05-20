@@ -1,9 +1,9 @@
 """
 基于统计的方法寻找合适的NP
 计算每个gram的分数分数有三部分组成：
-	a. Gram的词频（0.2）
+	a. Gram的词频（0.4）
 	b. Gram的点互信息（0.4）
-    c. Gram的邻词信息熵（0.4）
+    c. Gram的邻词信息熵（0.2）
 """
 
 import pandas as pd
@@ -17,23 +17,21 @@ from utils import read_line
 from tqdm import tqdm
 from sklearn.preprocessing import MinMaxScaler
 
-FILTER_POS = ['w', 'c', 'u', 'm', 'q', 'p', 'f', 'r', 'b', 'i', 'k', 'l', 'z']
+FILTER_POS = ['w', 'c', 'u', 'q', 'p', 'f', 'r', 'b', 'i', 'k', 'l', 'z', 'o', 'e']
 FILTER_VERB = ['vd', 'vf', 'vi', 'vg', 'vl', 'vshi', 'vyou', 'vx']
-KEEP_POS = 'n'
+FILTER_POS1 = ['v', 'ad', 't', 'd', 'ag', 'dg', 'dl']
+FILTER_WORDS = ['集团', '有限公司', '股份有限公司', '学院', '情况', '分公司']
 NUM_GRAM = 50
 CENTER_COUNT = 50
-sys.argv[1] = 2
+NGRAM = int(sys.argv[1])
 
 # N_Gram生成
 def n_grams(a, n):
     z = (islice(a, i, None) for i in range(n))
     return zip(*z)
 
-def loop_boolean(pos_filter, pos_list, mode='multi'):
-    if mode == 'multi':
-        bool_list = [[True if item == p else False for item in pos_list] for p in pos_filter]
-    elif mode == 'single':
-        bool_list = [[True if item == pos_filter else False for item in p] for p in pos_list]
+def loop_boolean(pos_filter, pos_list):
+    bool_list = [[True if item == p else False for item in pos_list] for p in pos_filter]
     return any([any(item) for item in bool_list])
 
 
@@ -45,35 +43,34 @@ def loop_boolean(pos_filter, pos_list, mode='multi'):
 '''
 def filter_gram(line):
     length = len(line)
-    for gram in n_grams(range(len(line)), sys.argv[1]):
+    for gram in n_grams(range(len(line)), NGRAM):
         left = line[gram[0]-1][0] if gram[0] != 0 and line[gram[0]-1][1] != 'w' else ''
         right = line[gram[-1]+1][0] if gram[-1] != length-1 and line[gram[-1]+1][1] != 'w' else ''
         filter_pos_start = [line[i][1][0] for i in gram]
         pos_list = [line[i][1] for i in gram]
-        keep_pos = [[line[i][1][0], line[i][1][-1]] for i in gram]
-        if sys.argv[1] == 2:
-            RULE_FILTER = loop_boolean(FILTER_POS, filter_pos_start)
-            RULE_ONE_N = loop_boolean(KEEP_POS, keep_pos, 'single')
-            RULE_VERB_ONE = (filter_pos_start[0] == 'v' or filter_pos_start[0] == 'n') and filter_pos_start[1] == 'v'
-            RULE_VERB_TWO = loop_boolean(FILTER_VERB, pos_list)
-            RULE_SAME = line[gram[0]][0] != line[gram[1]][0]
-            RULE_NOUN = filter_pos_start[0] == 'n' and (filter_pos_start[1] in ['a', 'd', 't'])
-            RULE_WORD1 = line[gram[0]][0] not in ['集团', '有限公司']
-            if not RULE_FILTER and RULE_ONE_N and not RULE_VERB_ONE and not RULE_VERB_TWO and not RULE_NOUN and RULE_SAME and RULE_WORD1:
+
+        # 规则列表
+        RULE_FILTER = loop_boolean(FILTER_POS, filter_pos_start) #不可以包含此列表中的词性
+        RULE_VERB = loop_boolean(FILTER_VERB, pos_list) #不可以包含此列表中的动词词性
+        RULE_SAME = len(set([line[i][0] for i in gram])) == NGRAM #不可以出现重复的词
+        RULE_NUM_NOUNS = len([p for p in filter_pos_start if p == 'n']) >= NGRAM-1 #必须至少出现比gram长度减1个数量的名词
+        RULE_LAST_NOUN = filter_pos_start[-1] in ['n', 'g'] or line[gram[-1]][1] in ['vn', 'an'] #中心词必须是名词
+        RULE_WORD1 = line[gram[0]][0] not in FILTER_WORDS #首词不可以出现在此列表中
+        RULE_POS1 = loop_boolean(FILTER_POS1, pos_list) #首词词性不可以出现在此列表中
+
+        if not RULE_FILTER and RULE_NUM_NOUNS and not RULE_VERB and RULE_LAST_NOUN and RULE_SAME and RULE_WORD1 and not RULE_POS1:
+            if NGRAM == 2:
                 bigram = line[gram[0]][0] + '-' + line[gram[1]][0]
                 pos = line[gram[0]][1] + '-' + line[gram[1]][1]
-                yield bigram, pos, line[gram[0]][0], line[gram[1]][0], left, right
-        elif sys.argv[1] == 3:
-            RULE_FILTER = loop_boolean(FILTER_POS, filter_pos_start)
-            RULE_VERB_TWO = loop_boolean(FILTER_VERB, pos_list)
-            RULE_TWO_NOUNS = len([p for p in filter_pos_start if p == 'n']) >= 2
-            RULE_SAME = len(set([line[i][0] for i in gram])) == sys.argv[1]
-            RULE_NOUN = filter_pos_start[-1] == 'n' or line[gram[-1]][1] == 'vn' or line[gram[-1]][1] == 'an'
-            if not RULE_FILTER and RULE_TWO_NOUNS and not RULE_VERB_TWO and RULE_SAME and RULE_NOUN:
+                yield (bigram, pos, line[gram[0]][0], line[gram[1]][0], left, right)
+            elif NGRAM == 3:
                 trigram = line[gram[0]][0] + '-' + line[gram[1]][0] + '-' + line[gram[2]][0]
                 pos = line[gram[0]][1] + '-' + line[gram[1]][1] + '-' + line[gram[2]][1]
-                yield trigram, pos, line[gram[0]][0], line[gram[1]][0], line[gram[2]][0], left, right
-            pass
+                yield (trigram, pos, line[gram[0]][0], line[gram[1]][0], line[gram[2]][0], left, right)
+            elif NGRAM == 4:
+                four_gram = '-'.join([line[gram[i]][0] for i in range(NGRAM)])
+                pos = '-'.join([line[gram[i]][1] for i in range(NGRAM)])
+                yield (four_gram, pos, line[gram[0]][0], line[gram[1]][0], line[gram[2]][0], line[gram[3]][0], left, right)
 
 
 if __name__ == '__main__':
@@ -94,24 +91,33 @@ if __name__ == '__main__':
     print('generate relative NP grams...')
     filter_gram = [x for row in tqdm(all_content) for x in filter_gram(row)]
     df = pd.DataFrame(filter_gram)
-    if sys.argv[1] == 2:
+    if NGRAM == 2:
         df.columns = ['gram', 'pos', 'word1', 'word2', 'left', 'right']
-    if sys.argv[1] == 3:
+    if NGRAM == 3:
         df.columns = ['gram', 'pos', 'word1', 'word2', 'word3', 'left', 'right']
+    if NGRAM == 4:    
+        df.columns = ['gram', 'pos', 'word1', 'word2', 'word3', 'word4', 'left', 'right']
 
     gram_cnt = Counter(df['gram'])
     word1_cnt = Counter(df['word1'])
     word2_cnt = Counter(df['word2'])
-    if sys.argv[1] == 3:
-        word3_cnt = Counter(df['word3'])
     word_cnt = word1_cnt + word2_cnt
-
+    if NGRAM >= 3:
+        word3_cnt = Counter(df['word3'])
+        word_cnt = word_cnt + word3_cnt
+        if NGRAM == 4:
+            word4_cnt = Counter(df['word4'])
+            word_cnt = word_cnt + word4_cnt   
+    
     df['gram_count'] = df['gram'].map(gram_cnt)
     df['center_count'] = df['word2'].map(word2_cnt)
     df['word1_count'] = df['word1'].map(word_cnt)
     df['word2_count'] = df['word2'].map(word_cnt)
-    if sys.argv[1] == 3:
+    if NGRAM >= 3:
         df['word3_count'] = df['word3'].map(word_cnt)
+        if NGRAM == 4:
+            df['word4_count'] = df['word4'].map(word_cnt)
+
     df = df[(df['gram_count'] > NUM_GRAM) & (df['center_count'] > CENTER_COUNT)]
     total_cnt = df.shape[0]
     df.head(5)
@@ -145,9 +151,12 @@ if __name__ == '__main__':
     df['word1_prob'] = df['word1_count'].apply(lambda x: x / total_cnt)
     df['word2_prob'] = df['word2_count'].apply(lambda x: x / total_cnt)
     df['pmi'] = np.log2(df['gram_prob'].values / df['word1_prob'].values / df['word2_prob'].values)
-    if sys.argv[1] == 3:
+    if NGRAM >= 3:
         df['word3_prob'] = df['word3_count'].apply(lambda x: x / total_cnt)
         df['pmi'] = np.log2(df['gram_prob'].values / df['word1_prob'].values / df['word2_prob'].values / df['word3_prob'].values)
+        if NGRAM == 4:
+            df['word4_prob'] = df['word4_count'].apply(lambda x: x / total_cnt)
+            df['pmi'] = np.log2(df['gram_prob'].values / df['word1_prob'].values / df['word2_prob'].values / df['word3_prob'].values / df['word4_prob'].values)
     
     df = df.fillna(0)
     df['min_entropy'] = df.apply(lambda row: min(row['left_entropy'], row['right_entropy']), axis = 1)
@@ -162,4 +171,4 @@ if __name__ == '__main__':
     df['score2'] = np.cbrt(df['wc_scaled'].values * df['pmi_scaled'].values * df['min_entropy_scaled'].values)
     df = df.sort_values('score2', ascending=False)
     print('generate totally %s grams'%df.shape[0])
-    df.to_csv('%dgram.csv'%sys.argv[1], index=None, header=True)
+    df.to_csv('%dgram.csv'%NGRAM, index=None, header=True)

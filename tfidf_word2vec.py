@@ -40,25 +40,40 @@ def tfidf(text, rebuild=False):
         corpora.MmCorpus.serialize('corpus.mm', corpus)
     tfidf_model = TfidfModel(corpus, id2word=dictionary)
     corpus_tfidf = tfidf_model[corpus]
-    res = [to_dict(mat,id2token) for mat in corpus_tfidf]
-    return res
+    res = [to_dict(mat, id2token) for mat in corpus_tfidf]
+    return res, id2token
+
+def get_top_words(fname, tfidf_mat, topn=10):
+    pass
 
 if __name__ == "__main__":
     stopwords = read_line('D:/Anaconda3/Lib/site-packages/pyhanlp/static/data/dictionary/stopwords.txt')
     df = pd.read_csv('all_csr_text.csv')
     df = df.fillna('')
     df = df[df.text != '']
-    # 去除通用词和标点
-    documents = [doc.split() for doc in df['text'].tolist()]
-    print('filtering stopwords...')
-    documents = [remove_stopwords(doc, stopwords) for doc in documents]
 
+    # 去除停用词和标点
+    documents = [doc.split() for doc in df['text_nonstop'].tolist()]
+    '''
+    print('filtering stopwords...')
+    if Path('tfidf.pkl').is_file() and REBUILD == False:
+        with open('tfidf.pkl', 'rb') as f:
+            documents = pickle.load(f)
+    else:
+        #少量数据测试很快,大量数据时跑不通
+        #documents = [remove_stopwords(doc, stopwords) for doc in documents]
+        documents = [[word for word in doc if word not in stopwords] for doc in documents]
+        with open('text.pkl', 'wb') as f:
+            pickle.dump(documents, f)
+    '''
     print('calculating tfidf....')
     if Path('tfidf.pkl').is_file() and REBUILD == False:
         with open('tfidf.pkl', 'rb') as f:
             tfidf_res = pickle.load(f)
     else:
-        tfidf_res = tfidf(documents, REBUILD)
+        tfidf_res, id2token = tfidf(documents, REBUILD)
+        with open('id2token.pkl', 'wb') as f:
+            pickle.dump(id2token, f)
         with open('tfidf.pkl', 'wb') as f:
             pickle.dump(tfidf_res, f)
 

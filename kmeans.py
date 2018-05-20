@@ -11,10 +11,14 @@ import time
 from gensim.models import Word2Vec, KeyedVectors
 from sklearn.cluster import KMeans
 from sklearn import metrics
+from utils import read_line
 
 logging.basicConfig(
     format='%(asctime)s : %(levelname)s : %(message)s', level=logging.WARNING)
 
+word_cnt = read_line('word_cnt.txt')
+word_cnt = [item.split('\t') for item in word_cnt]
+word_cnt = {item[0]: item[1] for item in word_cnt}
 
 def main():
     parser = argparse.ArgumentParser()
@@ -63,10 +67,10 @@ def main():
     word_centroid_list = list(zip(w2v_model.wv.index2word, idx))
     word_centroid_list_sort = sorted(
         word_centroid_list, key=lambda el: el[1], reverse=False)
-    file_out = open(args.output, "w")
-    file_out.write("WORD\tCLUSTER_ID\n")
+    file_out = open(args.output, "w", encoding='utf8')
+    file_out.write("WORD\tCLUSTER_ID\tWORD_COUNT\n")
     for word_centroid in word_centroid_list_sort:
-        line = word_centroid[0] + '\t' + str(word_centroid[1]) + '\n'
+        line = word_centroid[0] + '\t' + str(word_centroid[1])  + '\t' + str(word_cnt[word_centroid[0]]) + '\n'
         file_out.write(line)
     file_out.close()
     print("finished in {:.2f} sec.".format(time.time() - start), flush=True)
