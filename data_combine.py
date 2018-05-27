@@ -61,6 +61,7 @@ if __name__ == '__main__':
     df = pd.DataFrame(all_content)
     df.columns = ['year', 'location', 'industry', 'comp_name', 'invalid_sentences_cnt','text', 'text_nonstop', 'total_sents']
     df['invalid_ratio'] = df.invalid_sentences_cnt.values / df.total_sents.values
+    print('total documents', df.shape[0])
     df = df.drop(df[df.invalid_ratio > 0.2].index)
     df.to_csv('all_csr_text.csv', index=None)
     print('total documents', df.shape[0])
