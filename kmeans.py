@@ -8,7 +8,7 @@ v1.0 现状：能够对相似的词进行聚类，但并不能体现某个行业
 import argparse
 import logging
 import time
-from gensim.models import Word2Vec, KeyedVectors
+from gensim.models import KeyedVectors
 from sklearn.cluster import KMeans
 from sklearn import metrics
 from utils import read_line
@@ -16,17 +16,18 @@ from utils import read_line
 logging.basicConfig(
     format='%(asctime)s : %(levelname)s : %(message)s', level=logging.WARNING)
 
-word_cnt = read_line('word_cnt.txt')
-word_cnt = [item.split('\t') for item in word_cnt]
+word_cnt = read_line('./result/word_cnt.txt')
+word_cnt = [item.split('\t') for item in word_cnt if item != '']
 word_cnt = {item[0]: item[1] for item in word_cnt}
+
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("-model", help="word2vec model path")
+    parser.add_argument("--model", help="word2vec model path")
     parser.add_argument(
-        "-format", help="1 = binary format, 0 = text format", type=int)
-    parser.add_argument("-k", help="number of clusters", type=int)
-    parser.add_argument("-output", help="output file")
+        "--format", help="1 = binary format, 0 = text format", type=int, default=0)
+    parser.add_argument("--k", help="number of clusters", type=int)
+    parser.add_argument("--output", help="output file")
     args = parser.parse_args()
 
     start = time.time()

@@ -33,15 +33,22 @@ class make_xlat:
 def read_line(fname):
     return open(fname, encoding='utf8').read().split('\n')
 
-def save_line(obj, fname):
+def save_line(obj, fname='result.txt'):
     with open(fname, 'w', encoding='utf8') as f:
         if isinstance(obj, list):
-            for item in obj:
-                f.write(item+'\n')
+            for k, v in enumerate(obj):
+                if v != '\n' and k != len(obj) - 1:
+                    f.write(v + '\n')
+                else:
+                    f.write(v)
         if isinstance(obj, collections.Counter) or isinstance(obj, dict):
-            for key, val in sorted(obj.items(), key=lambda x: x[1], reverse=True):
-                f.write(key + '\t' + str(val))
-                f.write('\n')
+            row = 0
+            for k, v in sorted(obj.items(), key=lambda x: x[1], reverse=True):
+                if str(v) != '\n' and k != len(obj) - 1:
+                    f.write(k + '\t' + str(v) + '\n')
+                    row += 1
+                else:
+                    f.write(k + '\t' + str(v))
 
 
 def remove_stopwords(user_input, stop_words):

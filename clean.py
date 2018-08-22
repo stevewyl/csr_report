@@ -122,6 +122,7 @@ def clean_odd_symbol(text, keywords_dict):
         line = re.sub(r'\r|\f|\v| {2,}', '', line) #去除空白字符
         line = re.sub(punc_pattern, '', line) #去除标点符号
         line = re.sub(r'\s(?=[^\(\)]*\))', '', line) #去除括号内的空格
+        line = re.sub('。{2,}', '。', line)
         line = re.sub(r'(。|!|\?)', '\\1<EOS>', line) #增加分隔符标志
         line = re.sub(r'(\(headline\))', '\\1<EOS>', line) #增加分隔符标志
         line = re.sub(r'\(\)', '', line) #删除无内容的括号
@@ -418,7 +419,7 @@ def output_result_report(filelist1, filelist2, fname):
             f.write('\n')
 
 if __name__ == '__main__':
-    keywords_dict = load_keywords('keywords.txt')
+    keywords_dict = load_keywords('./dict/keywords.txt')
     if not Path('cleaned').is_dir():
         Path('cleaned').mkdir()
 
@@ -436,5 +437,5 @@ if __name__ == '__main__':
             fname = output_path.joinpath(file.name)
             output_paragraph(content, fname)
         
-        print('genearte preprocessing result report...')
-        output_result_report(input_files, get_files(output_path), '_'.join([str(i), 'result.txt']))
+        # print('genearte preprocessing result report...')
+        # output_result_report(input_files, get_files(output_path), '_'.join([str(i), 'result.txt']))

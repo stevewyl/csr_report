@@ -1,0 +1,4 @@
+more-itertools=4.1.0
+pyhanlp=0.1.44
+gensim=3.2.0
+tqdm=4.23.0
